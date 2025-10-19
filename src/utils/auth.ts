@@ -3,8 +3,8 @@ import { supabase, isSupabaseConfigured } from './supabase';
 import { localLogin, localLogout, localGetCurrentUser, localIsAuthenticated } from './localAuth';
 import type { User } from '../types';
 
-// בדיקה אם אנחנו במצב DEV - תמיד true לפיתוח
-const isDevMode = true; // import.meta.env.VITE_DEV_MODE === 'true';
+// בדיקה אם אנחנו במצב DEV
+const isDevMode = import.meta.env.VITE_DEV_MODE === 'true';
 
 // התחברות
 export const login = async (
@@ -18,10 +18,12 @@ export const login = async (
 
   // אימות עם Supabase
   try {
+    console.log('Attempting Supabase login with:', { email, supabaseUrl: supabaseUrl });
     const { data, error } = await supabase.auth.signInWithPassword({
       email,
       password,
     });
+    console.log('Supabase login result:', { data, error });
 
     if (error) {
       return {
