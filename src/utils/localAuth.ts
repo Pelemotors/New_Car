@@ -6,7 +6,7 @@ const DEV_USERS = [
   {
     id: '1',
     username: 'admin',
-    email: 'admin@newcar.co.il',
+    email: 'admin@admin.com',
     password: 'admin123',
     role: 'admin' as const,
     permissions: ['all'],
