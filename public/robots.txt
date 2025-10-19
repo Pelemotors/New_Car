@@ -1,0 +1,10 @@
+# רובוטים לאינדוקס של ניו קאר חדרה
+User-agent: *
+Allow: /
+
+# דפים שלא לאנדקס
+Disallow: /admin
+Disallow: /admin/*
+
+# קובץ Sitemap
+Sitemap: https://newcar-hadera.co.il/sitemap.xml

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- דף הבית -->
+  <url>
+    <loc>https://newcar-hadera.co.il/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- דף רכבים -->
+  <url>
+    <loc>https://newcar-hadera.co.il/cars</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- דף אודות -->
+  <url>
+    <loc>https://newcar-hadera.co.il/about</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <!-- דף יצירת קשר -->
+  <url>
+    <loc>https://newcar-hadera.co.il/contact</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- דפים משפטיים -->
+  <url>
+    <loc>https://newcar-hadera.co.il/privacy</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  
+  <url>
+    <loc>https://newcar-hadera.co.il/terms</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  
+  <!-- 
+    הערה: דפי רכבים ספציפיים (car/:slug) צריכים להתעדכן דינמית
+    ניתן ליצור sitemap.xml דינמי עם סקריפט Node.js או לעדכן ידנית
+  -->
+</urlset>

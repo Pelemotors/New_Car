@@ -1,0 +1,6513 @@
+{
+  "manufacturers": [
+    {
+      "id": 1,
+      "name": "אאודי"
+    },
+    {
+      "id": 2,
+      "name": "אבארט"
+    },
+    {
+      "id": 3,
+      "name": "אוטוביאנקי"
+    },
+    {
+      "id": 4,
+      "name": "אולדסמוביל"
+    },
+    {
+      "id": 5,
+      "name": "אוסטין"
+    },
+    {
+      "id": 6,
+      "name": "אופל"
+    },
+    {
+      "id": 7,
+      "name": "אורה / Ora"
+    },
+    {
+      "id": 8,
+      "name": "איווקו"
+    },
+    {
+      "id": 9,
+      "name": "אינפיניטי"
+    },
+    {
+      "id": 10,
+      "name": "איסוזו"
+    },
+    {
+      "id": 11,
+      "name": "אל.טי.איי"
+    },
+    {
+      "id": 12,
+      "name": "אלפא רומיאו"
+    },
+    {
+      "id": 13,
+      "name": "אלפין / ALPINE"
+    },
+    {
+      "id": 14,
+      "name": "אסטון מרטין"
+    },
+    {
+      "id": 15,
+      "name": "אף. אי. דאבליו / FEW"
+    },
+    {
+      "id": 16,
+      "name": "בי.ווי.די / BYD"
+    },
+    {
+      "id": 17,
+      "name": "ביואיק"
+    },
+    {
+      "id": 18,
+      "name": "בנטלי"
+    },
+    {
+      "id": 19,
+      "name": "גרייט וול"
+    },
+    {
+      "id": 20,
+      "name": "דונגפנג"
+    },
+    {
+      "id": 21,
+      "name": "די.אס / DS"
+    },
+    {
+      "id": 22,
+      "name": "דייהו"
+    },
+    {
+      "id": 23,
+      "name": "דייהטסו"
+    },
+    {
+      "id": 24,
+      "name": "האן / HAN"
+    },
+    {
+      "id": 25,
+      "name": "הונדה"
+    },
+    {
+      "id": 26,
+      "name": "הינו HINO"
+    },
+    {
+      "id": 27,
+      "name": "ווי / WEY"
+    },
+    {
+      "id": 28,
+      "name": "וולוו"
+    },
+    {
+      "id": 29,
+      "name": "טויוטה"
+    },
+    {
+      "id": 30,
+      "name": "טויטה"
+    },
+    {
+      "id": 31,
+      "name": "יגואר"
+    },
+    {
+      "id": 32,
+      "name": "יונדאי"
+    },
+    {
+      "id": 33,
+      "name": "לינק&קו / Lynk&Co"
+    },
+    {
+      "id": 34,
+      "name": "לינקולן"
+    },
+    {
+      "id": 35,
+      "name": "ליפמוטור / leapmotor"
+    },
+    {
+      "id": 36,
+      "name": "למבורגיני"
+    },
+    {
+      "id": 37,
+      "name": "לנד רובר"
+    },
+    {
+      "id": 38,
+      "name": "לקסוס"
+    },
+    {
+      "id": 39,
+      "name": "מאזדה"
+    },
+    {
+      "id": 40,
+      "name": "מזראטי"
+    },
+    {
+      "id": 41,
+      "name": "מיני"
+    },
+    {
+      "id": 42,
+      "name": "מיצובישי"
+    },
+    {
+      "id": 43,
+      "name": "מרצדס"
+    },
+    {
+      "id": 44,
+      "name": "ניסאן"
+    },
+    {
+      "id": 45,
+      "name": "סאנגיונג"
+    },
+    {
+      "id": 46,
+      "name": "סובארו"
+    },
+    {
+      "id": 47,
+      "name": "סוזוקי"
+    },
+    {
+      "id": 48,
+      "name": "סיאט"
+    },
+    {
+      "id": 49,
+      "name": "סיטרואן"
+    },
+    {
+      "id": 50,
+      "name": "סנטרו"
+    },
+    {
+      "id": 51,
+      "name": "סקודה"
+    },
+    {
+      "id": 52,
+      "name": "סקייוול"
+    },
+    {
+      "id": 53,
+      "name": "סרס / SERES"
+    },
+    {
+      "id": 54,
+      "name": "פולקסווגן"
+    },
+    {
+      "id": 55,
+      "name": "פונטיאק"
+    },
+    {
+      "id": 56,
+      "name": "פורד"
+    },
+    {
+      "id": 57,
+      "name": "פורשה"
+    },
+    {
+      "id": 58,
+      "name": "פורתינג / FORTHING"
+    },
+    {
+      "id": 59,
+      "name": "פיאט"
+    },
+    {
+      "id": 60,
+      "name": "פרארי"
+    },
+    {
+      "id": 61,
+      "name": "קאדילק"
+    },
+    {
+      "id": 62,
+      "name": "קארמה/ Karma"
+    },
+    {
+      "id": 63,
+      "name": "קופרה"
+    },
+    {
+      "id": 64,
+      "name": "קיה"
+    },
+    {
+      "id": 65,
+      "name": "קרייזלר"
+    },
+    {
+      "id": 66,
+      "name": "רובר"
+    },
+    {
+      "id": 67,
+      "name": "רנו"
+    },
+    {
+      "id": 68,
+      "name": "שברולט"
+    },
+    {
+      "id": 69,
+      "name": "Denza/דנזה"
+    },
+    {
+      "id": 70,
+      "name": "RAM/ראם"
+    },
+    {
+      "id": 71,
+      "name": "XPENG"
+    }
+  ],
+  "models": [
+    {
+      "id": 1,
+      "manufacturer": "RAM/ראם",
+      "model": "ראם 1500"
+    },
+    {
+      "id": 2,
+      "manufacturer": "RAM/ראם",
+      "model": "BAW"
+    },
+    {
+      "id": 3,
+      "manufacturer": "Denza/דנזה",
+      "model": "N7"
+    },
+    {
+      "id": 4,
+      "manufacturer": "אאודי",
+      "model": "100"
+    },
+    {
+      "id": 5,
+      "manufacturer": "אאודי",
+      "model": "80"
+    },
+    {
+      "id": 6,
+      "manufacturer": "אאודי",
+      "model": "A1"
+    },
+    {
+      "id": 7,
+      "manufacturer": "אאודי",
+      "model": "A3"
+    },
+    {
+      "id": 8,
+      "manufacturer": "אאודי",
+      "model": "A4"
+    },
+    {
+      "id": 9,
+      "manufacturer": "אאודי",
+      "model": "A5"
+    },
+    {
+      "id": 10,
+      "manufacturer": "אאודי",
+      "model": "A6"
+    },
+    {
+      "id": 11,
+      "manufacturer": "אאודי",
+      "model": "A7"
+    },
+    {
+      "id": 12,
+      "manufacturer": "אאודי",
+      "model": "A8"
+    },
+    {
+      "id": 13,
+      "manufacturer": "אאודי",
+      "model": "E-tron"
+    },
+    {
+      "id": 14,
+      "manufacturer": "אאודי",
+      "model": "E-tron GT"
+    },
+    {
+      "id": 15,
+      "manufacturer": "אאודי",
+      "model": "E-tron Q4"
+    },
+    {
+      "id": 16,
+      "manufacturer": "אאודי",
+      "model": "E-tron Q8"
+    },
+    {
+      "id": 17,
+      "manufacturer": "אאודי",
+      "model": "Q2"
+    },
+    {
+      "id": 18,
+      "manufacturer": "אאודי",
+      "model": "Q3"
+    },
+    {
+      "id": 19,
+      "manufacturer": "אאודי",
+      "model": "Q4"
+    },
+    {
+      "id": 20,
+      "manufacturer": "אאודי",
+      "model": "Q5"
+    },
+    {
+      "id": 21,
+      "manufacturer": "אאודי",
+      "model": "Q7"
+    },
+    {
+      "id": 22,
+      "manufacturer": "אאודי",
+      "model": "Q8"
+    },
+    {
+      "id": 23,
+      "manufacturer": "אאודי",
+      "model": "R8"
+    },
+    {
+      "id": 24,
+      "manufacturer": "אאודי",
+      "model": "RS3"
+    },
+    {
+      "id": 25,
+      "manufacturer": "אאודי",
+      "model": "RS4"
+    },
+    {
+      "id": 26,
+      "manufacturer": "אאודי",
+      "model": "RS5"
+    },
+    {
+      "id": 27,
+      "manufacturer": "אאודי",
+      "model": "RS6"
+    },
+    {
+      "id": 28,
+      "manufacturer": "אאודי",
+      "model": "RS7"
+    },
+    {
+      "id": 29,
+      "manufacturer": "אאודי",
+      "model": "RSQ3"
+    },
+    {
+      "id": 30,
+      "manufacturer": "אאודי",
+      "model": "RSQ8"
+    },
+    {
+      "id": 31,
+      "manufacturer": "אאודי",
+      "model": "S3"
+    },
+    {
+      "id": 32,
+      "manufacturer": "אאודי",
+      "model": "S4"
+    },
+    {
+      "id": 33,
+      "manufacturer": "אאודי",
+      "model": "S5"
+    },
+    {
+      "id": 34,
+      "manufacturer": "אאודי",
+      "model": "S6"
+    },
+    {
+      "id": 35,
+      "manufacturer": "אאודי",
+      "model": "S7"
+    },
+    {
+      "id": 36,
+      "manufacturer": "אאודי",
+      "model": "S8"
+    },
+    {
+      "id": 37,
+      "manufacturer": "אאודי",
+      "model": "SQ5"
+    },
+    {
+      "id": 38,
+      "manufacturer": "אאודי",
+      "model": "SQ7"
+    },
+    {
+      "id": 39,
+      "manufacturer": "אאודי",
+      "model": "SQ8"
+    },
+    {
+      "id": 40,
+      "manufacturer": "אאודי",
+      "model": "SQ8 e-tron"
+    },
+    {
+      "id": 41,
+      "manufacturer": "אאודי",
+      "model": "TT"
+    },
+    {
+      "id": 42,
+      "manufacturer": "אבארט",
+      "model": "124 ספיידר"
+    },
+    {
+      "id": 43,
+      "manufacturer": "אבארט",
+      "model": "500"
+    },
+    {
+      "id": 44,
+      "manufacturer": "אבארט",
+      "model": "500c"
+    },
+    {
+      "id": 45,
+      "manufacturer": "אבארט",
+      "model": "595"
+    },
+    {
+      "id": 46,
+      "manufacturer": "אבארט",
+      "model": "595c"
+    },
+    {
+      "id": 47,
+      "manufacturer": "אבארט",
+      "model": "פונטו איבו"
+    },
+    {
+      "id": 48,
+      "manufacturer": "XPENG",
+      "model": "G3i"
+    },
+    {
+      "id": 49,
+      "manufacturer": "XPENG",
+      "model": "G6"
+    },
+    {
+      "id": 50,
+      "manufacturer": "XPENG",
+      "model": "G9"
+    },
+    {
+      "id": 51,
+      "manufacturer": "XPENG",
+      "model": "P5"
+    },
+    {
+      "id": 52,
+      "manufacturer": "XPENG",
+      "model": "P7"
+    },
+    {
+      "id": 53,
+      "manufacturer": "אולדסמוביל",
+      "model": "אומגה"
+    },
+    {
+      "id": 54,
+      "manufacturer": "אולדסמוביל",
+      "model": "דלתא"
+    },
+    {
+      "id": 55,
+      "manufacturer": "אולדסמוביל",
+      "model": "קטלס"
+    },
+    {
+      "id": 56,
+      "manufacturer": "אולדסמוביל",
+      "model": "אורורה"
+    },
+    {
+      "id": 57,
+      "manufacturer": "אוטוביאנקי",
+      "model": "Y10"
+    },
+    {
+      "id": 59,
+      "manufacturer": "אוסטין",
+      "model": "מאסטרו"
+    },
+    {
+      "id": 60,
+      "manufacturer": "אוסטין",
+      "model": "מונטגו"
+    },
+    {
+      "id": 61,
+      "manufacturer": "אוסטין",
+      "model": "מטרו"
+    },
+    {
+      "id": 62,
+      "manufacturer": "אוסטין",
+      "model": "מיני"
+    },
+    {
+      "id": 63,
+      "manufacturer": "אופל",
+      "model": "אדם"
+    },
+    {
+      "id": 64,
+      "manufacturer": "אופל",
+      "model": "אומגה"
+    },
+    {
+      "id": 65,
+      "manufacturer": "אופל",
+      "model": "אינסיגניה"
+    },
+    {
+      "id": 66,
+      "manufacturer": "אופל",
+      "model": "אסטרה"
+    },
+    {
+      "id": 67,
+      "manufacturer": "אופל",
+      "model": "אסטרה החדשה"
+    },
+    {
+      "id": 68,
+      "manufacturer": "אופל",
+      "model": "גרנדלנד X"
+    },
+    {
+      "id": 69,
+      "manufacturer": "אופל",
+      "model": "וקטרה"
+    },
+    {
+      "id": 70,
+      "manufacturer": "אופל",
+      "model": "זאפירה"
+    },
+    {
+      "id": 71,
+      "manufacturer": "אופל",
+      "model": "טיגרה"
+    },
+    {
+      "id": 72,
+      "manufacturer": "אופל",
+      "model": "מוקה"
+    },
+    {
+      "id": 73,
+      "manufacturer": "אופל",
+      "model": "מוקה X"
+    },
+    {
+      "id": 74,
+      "manufacturer": "אופל",
+      "model": "מריבה"
+    },
+    {
+      "id": 75,
+      "manufacturer": "אופל",
+      "model": "פרונטרה"
+    },
+    {
+      "id": 76,
+      "manufacturer": "אופל",
+      "model": "קדט"
+    },
+    {
+      "id": 77,
+      "manufacturer": "אופל",
+      "model": "קורסה"
+    },
+    {
+      "id": 78,
+      "manufacturer": "אופל",
+      "model": "קסקדה"
+    },
+    {
+      "id": 79,
+      "manufacturer": "אופל",
+      "model": "קרוסלנד X"
+    },
+    {
+      "id": 80,
+      "manufacturer": "אופל",
+      "model": "ויוארו ארוך"
+    },
+    {
+      "id": 81,
+      "manufacturer": "אופל",
+      "model": "ויוארו קירור"
+    },
+    {
+      "id": 82,
+      "manufacturer": "אופל",
+      "model": "ויוארו קצר"
+    },
+    {
+      "id": 83,
+      "manufacturer": "אופל",
+      "model": "מובאנו"
+    },
+    {
+      "id": 84,
+      "manufacturer": "אופל",
+      "model": "קומבו"
+    },
+    {
+      "id": 85,
+      "manufacturer": "איווקו",
+      "model": "25S18"
+    },
+    {
+      "id": 86,
+      "manufacturer": "איווקו",
+      "model": "35C15CHC"
+    },
+    {
+      "id": 87,
+      "manufacturer": "איווקו",
+      "model": "35S16"
+    },
+    {
+      "id": 88,
+      "manufacturer": "איווקו",
+      "model": "50C15"
+    },
+    {
+      "id": 89,
+      "manufacturer": "איווקו",
+      "model": "50c14v"
+    },
+    {
+      "id": 90,
+      "manufacturer": "איווקו",
+      "model": "C15D35"
+    },
+    {
+      "id": 91,
+      "manufacturer": "איווקו",
+      "model": "דיילי החדשה"
+    },
+    {
+      "id": 92,
+      "manufacturer": "אורה / Ora",
+      "model": "7"
+    },
+    {
+      "id": 93,
+      "manufacturer": "אורה / Ora",
+      "model": "Funky Cat"
+    },
+    {
+      "id": 94,
+      "manufacturer": "אורה / Ora",
+      "model": "איווייס"
+    },
+    {
+      "id": 95,
+      "manufacturer": "אורה / Ora",
+      "model": "U5"
+    },
+    {
+      "id": 96,
+      "manufacturer": "אורה / Ora",
+      "model": "U6"
+    },
+    {
+      "id": 97,
+      "manufacturer": "אינפיניטי",
+      "model": "FX30 D"
+    },
+    {
+      "id": 98,
+      "manufacturer": "אינפיניטי",
+      "model": "FX35"
+    },
+    {
+      "id": 99,
+      "manufacturer": "אינפיניטי",
+      "model": "FX50"
+    },
+    {
+      "id": 100,
+      "manufacturer": "אינפיניטי",
+      "model": "G37"
+    },
+    {
+      "id": 101,
+      "manufacturer": "אינפיניטי",
+      "model": "Q30"
+    },
+    {
+      "id": 102,
+      "manufacturer": "אינפיניטי",
+      "model": "Q50"
+    },
+    {
+      "id": 103,
+      "manufacturer": "אינפיניטי",
+      "model": "Q60"
+    },
+    {
+      "id": 104,
+      "manufacturer": "אינפיניטי",
+      "model": "Q70 / M37"
+    },
+    {
+      "id": 105,
+      "manufacturer": "אינפיניטי",
+      "model": "QX30"
+    },
+    {
+      "id": 106,
+      "manufacturer": "אינפיניטי",
+      "model": "QX50 / EX37"
+    },
+    {
+      "id": 107,
+      "manufacturer": "אינפיניטי",
+      "model": "QX55"
+    },
+    {
+      "id": 108,
+      "manufacturer": "אינפיניטי",
+      "model": "QX56"
+    },
+    {
+      "id": 109,
+      "manufacturer": "אינפיניטי",
+      "model": "QX60"
+    },
+    {
+      "id": 110,
+      "manufacturer": "אינפיניטי",
+      "model": "QX70 / FX37"
+    },
+    {
+      "id": 111,
+      "manufacturer": "איסוזו",
+      "model": "טרופר ארוך"
+    },
+    {
+      "id": 112,
+      "manufacturer": "איסוזו",
+      "model": "טרופר קצר"
+    },
+    {
+      "id": 113,
+      "manufacturer": "איסוזו",
+      "model": "רודאו"
+    },
+    {
+      "id": 114,
+      "manufacturer": "איסוזו",
+      "model": "2X4 D-MAX"
+    },
+    {
+      "id": 115,
+      "manufacturer": "איסוזו",
+      "model": "4X4 D-MAX"
+    },
+    {
+      "id": 116,
+      "manufacturer": "איסוזו",
+      "model": "איפון 2X4"
+    },
+    {
+      "id": 117,
+      "manufacturer": "איסוזו",
+      "model": "איפון 4X4"
+    },
+    {
+      "id": 118,
+      "manufacturer": "איסוזו",
+      "model": "אקסיום"
+    },
+    {
+      "id": 119,
+      "manufacturer": "איסוזו",
+      "model": "טנדר"
+    },
+    {
+      "id": 120,
+      "manufacturer": "איסוזו",
+      "model": "סומו"
+    },
+    {
+      "id": 121,
+      "manufacturer": "אל.טי.איי",
+      "model": "TXT"
+    },
+    {
+      "id": 122,
+      "manufacturer": "אל.טי.איי",
+      "model": "מונית זוטובוס"
+    },
+    {
+      "id": 123,
+      "manufacturer": "אל.טי.איי",
+      "model": "אל.אי.וי.סי / LEVC"
+    },
+    {
+      "id": 124,
+      "manufacturer": "אל.טי.איי",
+      "model": "TX"
+    },
+    {
+      "id": 125,
+      "manufacturer": "אל.טי.איי",
+      "model": "e-Camper"
+    },
+    {
+      "id": 126,
+      "manufacturer": "אלפא רומיאו",
+      "model": "145"
+    },
+    {
+      "id": 127,
+      "manufacturer": "אלפא רומיאו",
+      "model": "146"
+    },
+    {
+      "id": 128,
+      "manufacturer": "אלפא רומיאו",
+      "model": "147"
+    },
+    {
+      "id": 129,
+      "manufacturer": "אלפא רומיאו",
+      "model": "156"
+    },
+    {
+      "id": 130,
+      "manufacturer": "אלפא רומיאו",
+      "model": "159"
+    },
+    {
+      "id": 131,
+      "manufacturer": "אלפא רומיאו",
+      "model": "164"
+    },
+    {
+      "id": 132,
+      "manufacturer": "אלפא רומיאו",
+      "model": "166"
+    },
+    {
+      "id": 133,
+      "manufacturer": "אלפא רומיאו",
+      "model": "33"
+    },
+    {
+      "id": 134,
+      "manufacturer": "אלפא רומיאו",
+      "model": "4C"
+    },
+    {
+      "id": 135,
+      "manufacturer": "אלפא רומיאו",
+      "model": "75"
+    },
+    {
+      "id": 136,
+      "manufacturer": "אלפא רומיאו",
+      "model": "90"
+    },
+    {
+      "id": 137,
+      "manufacturer": "אלפא רומיאו",
+      "model": "GT"
+    },
+    {
+      "id": 138,
+      "manufacturer": "אלפא רומיאו",
+      "model": "GTV"
+    },
+    {
+      "id": 139,
+      "manufacturer": "אלפא רומיאו",
+      "model": "בררה"
+    },
+    {
+      "id": 142,
+      "manufacturer": "אלפא רומיאו",
+      "model": "טונלה"
+    },
+    {
+      "id": 143,
+      "manufacturer": "אלפא רומיאו",
+      "model": "מיטו / MITO"
+    },
+    {
+      "id": 144,
+      "manufacturer": "אלפא רומיאו",
+      "model": "סטלויו"
+    },
+    {
+      "id": 145,
+      "manufacturer": "אלפא רומיאו",
+      "model": "ספיידר"
+    },
+    {
+      "id": 146,
+      "manufacturer": "אלפא רומיאו",
+      "model": "159.3.2.JTS"
+    },
+    {
+      "id": 147,
+      "manufacturer": "אלפא רומיאו",
+      "model": "סוד"
+    },
+    {
+      "id": 148,
+      "manufacturer": "אלפא רומיאו",
+      "model": "ספרינט"
+    },
+    {
+      "id": 158,
+      "manufacturer": "אסטון מרטין",
+      "model": "DB11"
+    },
+    {
+      "id": 159,
+      "manufacturer": "אסטון מרטין",
+      "model": "DB12"
+    },
+    {
+      "id": 160,
+      "manufacturer": "אסטון מרטין",
+      "model": "DB9"
+    },
+    {
+      "id": 161,
+      "manufacturer": "אסטון מרטין",
+      "model": "DBS"
+    },
+    {
+      "id": 162,
+      "manufacturer": "אסטון מרטין",
+      "model": "DBX"
+    },
+    {
+      "id": 163,
+      "manufacturer": "אסטון מרטין",
+      "model": "ואנקוויש"
+    },
+    {
+      "id": 165,
+      "manufacturer": "אסטון מרטין",
+      "model": "ראפיד"
+    },
+    {
+      "id": 166,
+      "manufacturer": "אלפין / ALPINE",
+      "model": "A110"
+    },
+    {
+      "id": 167,
+      "manufacturer": "אלפין / ALPINE",
+      "model": "ב.מ.וו"
+    },
+    {
+      "id": 168,
+      "manufacturer": "אלפין / ALPINE",
+      "model": "I7"
+    },
+    {
+      "id": 169,
+      "manufacturer": "אלפין / ALPINE",
+      "model": "IX"
+    },
+    {
+      "id": 170,
+      "manufacturer": "אלפין / ALPINE",
+      "model": "M1"
+    },
+    {
+      "id": 171,
+      "manufacturer": "אלפין / ALPINE",
+      "model": "M2"
+    },
+    {
+      "id": 172,
+      "manufacturer": "אלפין / ALPINE",
+      "model": "M3"
+    },
+    {
+      "id": 173,
+      "manufacturer": "אלפין / ALPINE",
+      "model": "M4"
+    },
+    {
+      "id": 174,
+      "manufacturer": "אלפין / ALPINE",
+      "model": "M5"
+    },
+    {
+      "id": 175,
+      "manufacturer": "אלפין / ALPINE",
+      "model": "M550"
+    },
+    {
+      "id": 176,
+      "manufacturer": "אלפין / ALPINE",
+      "model": "M6"
+    },
+    {
+      "id": 177,
+      "manufacturer": "אלפין / ALPINE",
+      "model": "M8"
+    },
+    {
+      "id": 178,
+      "manufacturer": "אלפין / ALPINE",
+      "model": "X1"
+    },
+    {
+      "id": 179,
+      "manufacturer": "אלפין / ALPINE",
+      "model": "X2"
+    },
+    {
+      "id": 180,
+      "manufacturer": "אלפין / ALPINE",
+      "model": "X3"
+    },
+    {
+      "id": 181,
+      "manufacturer": "אלפין / ALPINE",
+      "model": "X4"
+    },
+    {
+      "id": 182,
+      "manufacturer": "אלפין / ALPINE",
+      "model": "X5"
+    },
+    {
+      "id": 183,
+      "manufacturer": "אלפין / ALPINE",
+      "model": "X6"
+    },
+    {
+      "id": 184,
+      "manufacturer": "אלפין / ALPINE",
+      "model": "X6M Competition"
+    },
+    {
+      "id": 185,
+      "manufacturer": "אלפין / ALPINE",
+      "model": "X7"
+    },
+    {
+      "id": 186,
+      "manufacturer": "אלפין / ALPINE",
+      "model": "XM"
+    },
+    {
+      "id": 187,
+      "manufacturer": "אלפין / ALPINE",
+      "model": "Z3"
+    },
+    {
+      "id": 188,
+      "manufacturer": "אלפין / ALPINE",
+      "model": "Z4"
+    },
+    {
+      "id": 189,
+      "manufacturer": "אלפין / ALPINE",
+      "model": "i3"
+    },
+    {
+      "id": 190,
+      "manufacturer": "אלפין / ALPINE",
+      "model": "i4"
+    },
+    {
+      "id": 191,
+      "manufacturer": "אלפין / ALPINE",
+      "model": "i5"
+    },
+    {
+      "id": 192,
+      "manufacturer": "אלפין / ALPINE",
+      "model": "i8"
+    },
+    {
+      "id": 193,
+      "manufacturer": "אלפין / ALPINE",
+      "model": "iX1"
+    },
+    {
+      "id": 194,
+      "manufacturer": "אלפין / ALPINE",
+      "model": "iX3"
+    },
+    {
+      "id": 195,
+      "manufacturer": "אלפין / ALPINE",
+      "model": "סדרה 1"
+    },
+    {
+      "id": 196,
+      "manufacturer": "אלפין / ALPINE",
+      "model": "סדרה 2"
+    },
+    {
+      "id": 197,
+      "manufacturer": "אלפין / ALPINE",
+      "model": "סדרה 3"
+    },
+    {
+      "id": 198,
+      "manufacturer": "אלפין / ALPINE",
+      "model": "סדרה 3 קופה / קבריולט"
+    },
+    {
+      "id": 199,
+      "manufacturer": "אלפין / ALPINE",
+      "model": "סדרה 4"
+    },
+    {
+      "id": 200,
+      "manufacturer": "אלפין / ALPINE",
+      "model": "סדרה 5"
+    },
+    {
+      "id": 201,
+      "manufacturer": "אלפין / ALPINE",
+      "model": "סדרה 6"
+    },
+    {
+      "id": 202,
+      "manufacturer": "אלפין / ALPINE",
+      "model": "סדרה 7"
+    },
+    {
+      "id": 203,
+      "manufacturer": "אלפין / ALPINE",
+      "model": "סדרה 8"
+    },
+    {
+      "id": 204,
+      "manufacturer": "ביואיק",
+      "model": "אנקלייב"
+    },
+    {
+      "id": 205,
+      "manufacturer": "ביואיק",
+      "model": "לה סייבר"
+    },
+    {
+      "id": 206,
+      "manufacturer": "ביואיק",
+      "model": "לה קרוס"
+    },
+    {
+      "id": 207,
+      "manufacturer": "ביואיק",
+      "model": "לוצרן"
+    },
+    {
+      "id": 208,
+      "manufacturer": "ביואיק",
+      "model": "פארק אבניו"
+    },
+    {
+      "id": 209,
+      "manufacturer": "ביואיק",
+      "model": "ריביירה"
+    },
+    {
+      "id": 210,
+      "manufacturer": "ביואיק",
+      "model": "רנדוו"
+    },
+    {
+      "id": 212,
+      "manufacturer": "ביואיק",
+      "model": "ריגל"
+    },
+    {
+      "id": 213,
+      "manufacturer": "בי.ווי.די / BYD",
+      "model": "DOLPHIN"
+    },
+    {
+      "id": 214,
+      "manufacturer": "בי.ווי.די / BYD",
+      "model": "Seal EV"
+    },
+    {
+      "id": 215,
+      "manufacturer": "בי.ווי.די / BYD",
+      "model": "אטו 3"
+    },
+    {
+      "id": 216,
+      "manufacturer": "בי.ווי.די / BYD",
+      "model": "אטו 3 / ATTO 3"
+    },
+    {
+      "id": 217,
+      "manufacturer": "האן / HAN",
+      "model": "טאנג"
+    },
+    {
+      "id": 218,
+      "manufacturer": "האן / HAN",
+      "model": "HAN"
+    },
+    {
+      "id": 219,
+      "manufacturer": "אף. אי. דאבליו / FEW",
+      "model": "E-HS9"
+    },
+    {
+      "id": 220,
+      "manufacturer": "בנטלי",
+      "model": "BE53"
+    },
+    {
+      "id": 221,
+      "manufacturer": "בנטלי",
+      "model": "בנטיאגה"
+    },
+    {
+      "id": 222,
+      "manufacturer": "בנטלי",
+      "model": "פליינג ספור"
+    },
+    {
+      "id": 223,
+      "manufacturer": "בנטלי",
+      "model": "קונטיננטל GT"
+    },
+    {
+      "id": 295,
+      "manufacturer": "גרייט וול",
+      "model": "C10"
+    },
+    {
+      "id": 296,
+      "manufacturer": "גרייט וול",
+      "model": "Cool Bear"
+    },
+    {
+      "id": 297,
+      "manufacturer": "גרייט וול",
+      "model": "Florid"
+    },
+    {
+      "id": 298,
+      "manufacturer": "גרייט וול",
+      "model": "Haval H6"
+    },
+    {
+      "id": 299,
+      "manufacturer": "גרייט וול",
+      "model": "סטיד / Steed"
+    },
+    {
+      "id": 325,
+      "manufacturer": "דונגפנג",
+      "model": "גלורי 580"
+    },
+    {
+      "id": 326,
+      "manufacturer": "דונגפנג",
+      "model": "C31"
+    },
+    {
+      "id": 327,
+      "manufacturer": "דונגפנג",
+      "model": "C32"
+    },
+    {
+      "id": 328,
+      "manufacturer": "דונגפנג",
+      "model": "C35"
+    },
+    {
+      "id": 329,
+      "manufacturer": "דונגפנג",
+      "model": "K01H"
+    },
+    {
+      "id": 330,
+      "manufacturer": "דונגפנג",
+      "model": "KO1"
+    },
+    {
+      "id": 331,
+      "manufacturer": "דונגפנג",
+      "model": "KO2"
+    },
+    {
+      "id": 332,
+      "manufacturer": "דונגפנג",
+      "model": "KO5"
+    },
+    {
+      "id": 333,
+      "manufacturer": "די.אס / DS",
+      "model": "DS3"
+    },
+    {
+      "id": 334,
+      "manufacturer": "די.אס / DS",
+      "model": "DS3 Crossback / קרוסבק"
+    },
+    {
+      "id": 335,
+      "manufacturer": "די.אס / DS",
+      "model": "DS3 קבריולט"
+    },
+    {
+      "id": 336,
+      "manufacturer": "די.אס / DS",
+      "model": "DS4"
+    },
+    {
+      "id": 337,
+      "manufacturer": "די.אס / DS",
+      "model": "DS5"
+    },
+    {
+      "id": 338,
+      "manufacturer": "די.אס / DS",
+      "model": "DS7 Crossback / קרוסבק"
+    },
+    {
+      "id": 339,
+      "manufacturer": "דייהטסו",
+      "model": "YRV"
+    },
+    {
+      "id": 340,
+      "manufacturer": "דייהטסו",
+      "model": "אפלאוז"
+    },
+    {
+      "id": 341,
+      "manufacturer": "דייהטסו",
+      "model": "גרנדמוב"
+    },
+    {
+      "id": 342,
+      "manufacturer": "דייהטסו",
+      "model": "טריוס"
+    },
+    {
+      "id": 343,
+      "manufacturer": "דייהטסו",
+      "model": "מאטריה"
+    },
+    {
+      "id": 344,
+      "manufacturer": "דייהטסו",
+      "model": "סיריון"
+    },
+    {
+      "id": 345,
+      "manufacturer": "דייהטסו",
+      "model": "פרוזה"
+    },
+    {
+      "id": 346,
+      "manufacturer": "דייהטסו",
+      "model": "קורה"
+    },
+    {
+      "id": 347,
+      "manufacturer": "דייהטסו",
+      "model": "שרייד"
+    },
+    {
+      "id": 348,
+      "manufacturer": "דייהטסו",
+      "model": "שרמנט"
+    },
+    {
+      "id": 349,
+      "manufacturer": "דייהטסו",
+      "model": "האמר"
+    },
+    {
+      "id": 350,
+      "manufacturer": "דייהטסו",
+      "model": "H1"
+    },
+    {
+      "id": 351,
+      "manufacturer": "דייהטסו",
+      "model": "H2"
+    },
+    {
+      "id": 352,
+      "manufacturer": "דייהטסו",
+      "model": "H3"
+    },
+    {
+      "id": 353,
+      "manufacturer": "דייהו",
+      "model": "אספרו"
+    },
+    {
+      "id": 354,
+      "manufacturer": "דייהו",
+      "model": "טאקומה"
+    },
+    {
+      "id": 355,
+      "manufacturer": "דייהו",
+      "model": "לאנוס"
+    },
+    {
+      "id": 356,
+      "manufacturer": "דייהו",
+      "model": "לגנזה"
+    },
+    {
+      "id": 357,
+      "manufacturer": "דייהו",
+      "model": "מאטיס"
+    },
+    {
+      "id": 358,
+      "manufacturer": "דייהו",
+      "model": "נובירה"
+    },
+    {
+      "id": 359,
+      "manufacturer": "דייהו",
+      "model": "נקסייה"
+    },
+    {
+      "id": 360,
+      "manufacturer": "דייהו",
+      "model": "סופר סלון"
+    },
+    {
+      "id": 361,
+      "manufacturer": "דייהו",
+      "model": "סופר רייסר"
+    },
+    {
+      "id": 362,
+      "manufacturer": "דייהו",
+      "model": "פרינס"
+    },
+    {
+      "id": 364,
+      "manufacturer": "דייהו",
+      "model": "רייסר"
+    },
+    {
+      "id": 365,
+      "manufacturer": "הונדה",
+      "model": "ACURA INTEGRA"
+    },
+    {
+      "id": 366,
+      "manufacturer": "הונדה",
+      "model": "ACURA MDX"
+    },
+    {
+      "id": 367,
+      "manufacturer": "הונדה",
+      "model": "CR-V"
+    },
+    {
+      "id": 368,
+      "manufacturer": "הונדה",
+      "model": "CR-Z"
+    },
+    {
+      "id": 369,
+      "manufacturer": "הונדה",
+      "model": "FR-V"
+    },
+    {
+      "id": 370,
+      "manufacturer": "הונדה",
+      "model": "HR-V"
+    },
+    {
+      "id": 371,
+      "manufacturer": "הונדה",
+      "model": "S 2000"
+    },
+    {
+      "id": 372,
+      "manufacturer": "הונדה",
+      "model": "אודיסיי"
+    },
+    {
+      "id": 373,
+      "manufacturer": "הונדה",
+      "model": "אינסייט"
+    },
+    {
+      "id": 374,
+      "manufacturer": "הונדה",
+      "model": "אקורד"
+    },
+    {
+      "id": 377,
+      "manufacturer": "הונדה",
+      "model": "הונדה סיטי"
+    },
+    {
+      "id": 379,
+      "manufacturer": "הונדה",
+      "model": "סטרים"
+    },
+    {
+      "id": 380,
+      "manufacturer": "הונדה",
+      "model": "סיוויק (עד 2006)"
+    },
+    {
+      "id": 381,
+      "manufacturer": "הונדה",
+      "model": "סיוויק Type-R"
+    },
+    {
+      "id": 383,
+      "manufacturer": "הונדה",
+      "model": "סיוויק הייבריד"
+    },
+    {
+      "id": 384,
+      "manufacturer": "הונדה",
+      "model": "סיוויק סדאן החדשה"
+    },
+    {
+      "id": 385,
+      "manufacturer": "הונדה",
+      "model": "סיוויק סטיישן"
+    },
+    {
+      "id": 387,
+      "manufacturer": "הונדה",
+      "model": "פיילוט"
+    },
+    {
+      "id": 388,
+      "manufacturer": "הונדה",
+      "model": "פרלוד"
+    },
+    {
+      "id": 389,
+      "manufacturer": "הונדה",
+      "model": "שאטל"
+    },
+    {
+      "id": 390,
+      "manufacturer": "הינו HINO",
+      "model": "300"
+    },
+    {
+      "id": 391,
+      "manufacturer": "ווי / WEY",
+      "model": "קופי 01 / COFFEE 01"
+    },
+    {
+      "id": 392,
+      "manufacturer": "ווי / WEY",
+      "model": "קופי 02 / COFFEE 02"
+    },
+    {
+      "id": 394,
+      "manufacturer": "וולוו",
+      "model": "240"
+    },
+    {
+      "id": 395,
+      "manufacturer": "וולוו",
+      "model": "244"
+    },
+    {
+      "id": 396,
+      "manufacturer": "וולוו",
+      "model": "740/744"
+    },
+    {
+      "id": 397,
+      "manufacturer": "וולוו",
+      "model": "745"
+    },
+    {
+      "id": 398,
+      "manufacturer": "וולוו",
+      "model": "760"
+    },
+    {
+      "id": 399,
+      "manufacturer": "וולוו",
+      "model": "850"
+    },
+    {
+      "id": 400,
+      "manufacturer": "וולוו",
+      "model": "854"
+    },
+    {
+      "id": 401,
+      "manufacturer": "וולוו",
+      "model": "855"
+    },
+    {
+      "id": 402,
+      "manufacturer": "וולוו",
+      "model": "940"
+    },
+    {
+      "id": 403,
+      "manufacturer": "וולוו",
+      "model": "944"
+    },
+    {
+      "id": 404,
+      "manufacturer": "וולוו",
+      "model": "945"
+    },
+    {
+      "id": 405,
+      "manufacturer": "וולוו",
+      "model": "960"
+    },
+    {
+      "id": 406,
+      "manufacturer": "וולוו",
+      "model": "C30"
+    },
+    {
+      "id": 407,
+      "manufacturer": "וולוו",
+      "model": "C40"
+    },
+    {
+      "id": 408,
+      "manufacturer": "וולוו",
+      "model": "C70"
+    },
+    {
+      "id": 409,
+      "manufacturer": "וולוו",
+      "model": "CX11"
+    },
+    {
+      "id": 410,
+      "manufacturer": "וולוו",
+      "model": "EX30"
+    },
+    {
+      "id": 411,
+      "manufacturer": "וולוו",
+      "model": "S40"
+    },
+    {
+      "id": 412,
+      "manufacturer": "וולוו",
+      "model": "S60"
+    },
+    {
+      "id": 413,
+      "manufacturer": "וולוו",
+      "model": "S70"
+    },
+    {
+      "id": 414,
+      "manufacturer": "וולוו",
+      "model": "S80"
+    },
+    {
+      "id": 415,
+      "manufacturer": "וולוו",
+      "model": "S90"
+    },
+    {
+      "id": 416,
+      "manufacturer": "וולוו",
+      "model": "V40"
+    },
+    {
+      "id": 417,
+      "manufacturer": "וולוו",
+      "model": "V40 הישנה"
+    },
+    {
+      "id": 418,
+      "manufacturer": "וולוו",
+      "model": "V40 קרוס קאנטרי"
+    },
+    {
+      "id": 419,
+      "manufacturer": "וולוו",
+      "model": "V50"
+    },
+    {
+      "id": 420,
+      "manufacturer": "וולוו",
+      "model": "V60"
+    },
+    {
+      "id": 421,
+      "manufacturer": "וולוו",
+      "model": "V70"
+    },
+    {
+      "id": 422,
+      "manufacturer": "וולוו",
+      "model": "XC40"
+    },
+    {
+      "id": 423,
+      "manufacturer": "וולוו",
+      "model": "XC60"
+    },
+    {
+      "id": 424,
+      "manufacturer": "וולוו",
+      "model": "XC70"
+    },
+    {
+      "id": 425,
+      "manufacturer": "וולוו",
+      "model": "XC90"
+    },
+    {
+      "id": 426,
+      "manufacturer": "וולוו",
+      "model": "245"
+    },
+    {
+      "id": 427,
+      "manufacturer": "וולוו",
+      "model": "264"
+    },
+    {
+      "id": 428,
+      "manufacturer": "וולוו",
+      "model": "340/345"
+    },
+    {
+      "id": 429,
+      "manufacturer": "טויוטה",
+      "model": "4Runner"
+    },
+    {
+      "id": 430,
+      "manufacturer": "טויוטה",
+      "model": "BZ4X"
+    },
+    {
+      "id": 431,
+      "manufacturer": "טויוטה",
+      "model": "C-HR"
+    },
+    {
+      "id": 432,
+      "manufacturer": "טויוטה",
+      "model": "FJ קרוזר"
+    },
+    {
+      "id": 433,
+      "manufacturer": "טויוטה",
+      "model": "GR86"
+    },
+    {
+      "id": 434,
+      "manufacturer": "טויוטה",
+      "model": "GT86"
+    },
+    {
+      "id": 435,
+      "manufacturer": "טויוטה",
+      "model": "IQ"
+    },
+    {
+      "id": 436,
+      "manufacturer": "טויוטה",
+      "model": "MR2"
+    },
+    {
+      "id": 437,
+      "manufacturer": "טויוטה",
+      "model": "RAV4 ארוך"
+    },
+    {
+      "id": 438,
+      "manufacturer": "טויוטה",
+      "model": "RAV4 הייבריד"
+    },
+    {
+      "id": 439,
+      "manufacturer": "טויוטה",
+      "model": "RAV4 קצר"
+    },
+    {
+      "id": 440,
+      "manufacturer": "טויוטה",
+      "model": "אוולון"
+    },
+    {
+      "id": 441,
+      "manufacturer": "טויוטה",
+      "model": "אוולון הייבריד"
+    },
+    {
+      "id": 442,
+      "manufacturer": "טויוטה",
+      "model": "אוונסיס"
+    },
+    {
+      "id": 443,
+      "manufacturer": "טויוטה",
+      "model": "אוונסיס ורסו"
+    },
+    {
+      "id": 444,
+      "manufacturer": "טויוטה",
+      "model": "אוריס"
+    },
+    {
+      "id": 445,
+      "manufacturer": "טויוטה",
+      "model": "אוריס הייבריד"
+    },
+    {
+      "id": 446,
+      "manufacturer": "טויוטה",
+      "model": "אייגו (AYGO)"
+    },
+    {
+      "id": 447,
+      "manufacturer": "טויוטה",
+      "model": "אייגו קרוס (AYGO X)"
+    },
+    {
+      "id": 448,
+      "manufacturer": "טויוטה",
+      "model": "גרנד היילנדר"
+    },
+    {
+      "id": 449,
+      "manufacturer": "טויוטה",
+      "model": "היילנדר"
+    },
+    {
+      "id": 450,
+      "manufacturer": "טויוטה",
+      "model": "ונזה"
+    },
+    {
+      "id": 451,
+      "manufacturer": "טויוטה",
+      "model": "ונזה (2021 ואילך)"
+    },
+    {
+      "id": 452,
+      "manufacturer": "טויוטה",
+      "model": "ורסו"
+    },
+    {
+      "id": 453,
+      "manufacturer": "טויוטה",
+      "model": "יאריס"
+    },
+    {
+      "id": 454,
+      "manufacturer": "טויוטה",
+      "model": "יאריס הייבריד"
+    },
+    {
+      "id": 455,
+      "manufacturer": "טויוטה",
+      "model": "יאריס קרוס"
+    },
+    {
+      "id": 456,
+      "manufacturer": "טויוטה",
+      "model": "לנד קרוזר V8"
+    },
+    {
+      "id": 457,
+      "manufacturer": "טויוטה",
+      "model": "לנד קרוזר ארוך"
+    },
+    {
+      "id": 458,
+      "manufacturer": "טויוטה",
+      "model": "לנד קרוזר סדרה 70"
+    },
+    {
+      "id": 459,
+      "manufacturer": "טויוטה",
+      "model": "לנד קרוזר פרדו ארוך"
+    },
+    {
+      "id": 460,
+      "manufacturer": "טויוטה",
+      "model": "לנד קרוזר פרדו קצר"
+    },
+    {
+      "id": 461,
+      "manufacturer": "טויוטה",
+      "model": "לנד קרוזר קצר"
+    },
+    {
+      "id": 462,
+      "manufacturer": "טויוטה",
+      "model": "סופרה"
+    },
+    {
+      "id": 463,
+      "manufacturer": "טויוטה",
+      "model": "סטארלט"
+    },
+    {
+      "id": 464,
+      "manufacturer": "טויוטה",
+      "model": "סיינה"
+    },
+    {
+      "id": 465,
+      "manufacturer": "טויוטה",
+      "model": "סיינה הייבריד"
+    },
+    {
+      "id": 466,
+      "manufacturer": "טויוטה",
+      "model": "סליקה"
+    },
+    {
+      "id": 467,
+      "manufacturer": "טויוטה",
+      "model": "ספייס ורסו"
+    },
+    {
+      "id": 468,
+      "manufacturer": "טויוטה",
+      "model": "סקויה"
+    },
+    {
+      "id": 469,
+      "manufacturer": "טויוטה",
+      "model": "פריוויה"
+    },
+    {
+      "id": 470,
+      "manufacturer": "טויוטה",
+      "model": "פריוס"
+    },
+    {
+      "id": 471,
+      "manufacturer": "טויוטה",
+      "model": "פריוס C הייבריד"
+    },
+    {
+      "id": 472,
+      "manufacturer": "טויוטה",
+      "model": "פריוס פלאג-אין"
+    },
+    {
+      "id": 473,
+      "manufacturer": "טויוטה",
+      "model": "פריוס פלוס הייבריד"
+    },
+    {
+      "id": 474,
+      "manufacturer": "טויוטה",
+      "model": "קאמרי"
+    },
+    {
+      "id": 475,
+      "manufacturer": "טויוטה",
+      "model": "קורולה"
+    },
+    {
+      "id": 476,
+      "manufacturer": "טויוטה",
+      "model": "קורולה RUN-X"
+    },
+    {
+      "id": 477,
+      "manufacturer": "טויוטה",
+      "model": "קורולה TS סטיישן"
+    },
+    {
+      "id": 478,
+      "manufacturer": "טויוטה",
+      "model": "קורולה הייבריד"
+    },
+    {
+      "id": 479,
+      "manufacturer": "טויוטה",
+      "model": "קורולה קרוס"
+    },
+    {
+      "id": 480,
+      "manufacturer": "טויוטה",
+      "model": "קראון/ Crown"
+    },
+    {
+      "id": 481,
+      "manufacturer": "טויוטה",
+      "model": "קרינה"
+    },
+    {
+      "id": 482,
+      "manufacturer": "טויוטה",
+      "model": "הייאס ארוך"
+    },
+    {
+      "id": 483,
+      "manufacturer": "טויוטה",
+      "model": "הייאס קצר"
+    },
+    {
+      "id": 484,
+      "manufacturer": "טויוטה",
+      "model": "היילקס 2X4"
+    },
+    {
+      "id": 485,
+      "manufacturer": "טויוטה",
+      "model": "היילקס 4X4"
+    },
+    {
+      "id": 486,
+      "manufacturer": "טויוטה",
+      "model": "היילקס ויגו 2X4"
+    },
+    {
+      "id": 487,
+      "manufacturer": "טויוטה",
+      "model": "היילקס ויגו 4X4"
+    },
+    {
+      "id": 488,
+      "manufacturer": "טויוטה",
+      "model": "טאקומה"
+    },
+    {
+      "id": 489,
+      "manufacturer": "טויוטה",
+      "model": "טונדרה"
+    },
+    {
+      "id": 490,
+      "manufacturer": "טויוטה",
+      "model": "לנד קרוזר LC100"
+    },
+    {
+      "id": 491,
+      "manufacturer": "טויוטה",
+      "model": "סולרה קבריולט"
+    },
+    {
+      "id": 492,
+      "manufacturer": "טויוטה",
+      "model": "סיטי"
+    },
+    {
+      "id": 493,
+      "manufacturer": "טויוטה",
+      "model": "פרואייס"
+    },
+    {
+      "id": 494,
+      "manufacturer": "טויוטה",
+      "model": "טאטא"
+    },
+    {
+      "id": 495,
+      "manufacturer": "טויוטה",
+      "model": "סהרה"
+    },
+    {
+      "id": 496,
+      "manufacturer": "טויוטה",
+      "model": "סומו"
+    },
+    {
+      "id": 497,
+      "manufacturer": "טויוטה",
+      "model": "סיירה"
+    },
+    {
+      "id": 498,
+      "manufacturer": "טויוטה",
+      "model": "ספארי"
+    },
+    {
+      "id": 499,
+      "manufacturer": "טויוטה",
+      "model": "207"
+    },
+    {
+      "id": 500,
+      "manufacturer": "טויוטה",
+      "model": "טלקוליין 2X4"
+    },
+    {
+      "id": 501,
+      "manufacturer": "טויוטה",
+      "model": "טלקוליין 4X4"
+    },
+    {
+      "id": 502,
+      "manufacturer": "טויוטה",
+      "model": "וויה / VOYAH"
+    },
+    {
+      "id": 503,
+      "manufacturer": "טויוטה",
+      "model": "DREAM"
+    },
+    {
+      "id": 504,
+      "manufacturer": "טויוטה",
+      "model": "וויה פרי / VOYAH FREE"
+    },
+    {
+      "id": 505,
+      "manufacturer": "יגואר",
+      "model": "E-Pace"
+    },
+    {
+      "id": 506,
+      "manufacturer": "יגואר",
+      "model": "F-Pace"
+    },
+    {
+      "id": 507,
+      "manufacturer": "יגואר",
+      "model": "F-Type"
+    },
+    {
+      "id": 508,
+      "manufacturer": "יגואר",
+      "model": "I-Pace"
+    },
+    {
+      "id": 509,
+      "manufacturer": "יגואר",
+      "model": "S-Type"
+    },
+    {
+      "id": 510,
+      "manufacturer": "יגואר",
+      "model": "X-Type"
+    },
+    {
+      "id": 511,
+      "manufacturer": "יגואר",
+      "model": "XE"
+    },
+    {
+      "id": 512,
+      "manufacturer": "יגואר",
+      "model": "XF"
+    },
+    {
+      "id": 513,
+      "manufacturer": "יגואר",
+      "model": "XJ"
+    },
+    {
+      "id": 514,
+      "manufacturer": "יגואר",
+      "model": "XJ6"
+    },
+    {
+      "id": 515,
+      "manufacturer": "יגואר",
+      "model": "XJ8"
+    },
+    {
+      "id": 516,
+      "manufacturer": "יגואר",
+      "model": "XJR"
+    },
+    {
+      "id": 517,
+      "manufacturer": "יגואר",
+      "model": "XK"
+    },
+    {
+      "id": 518,
+      "manufacturer": "יגואר",
+      "model": "XKR"
+    },
+    {
+      "id": 519,
+      "manufacturer": "יגואר",
+      "model": "דימלר"
+    },
+    {
+      "id": 520,
+      "manufacturer": "יגואר",
+      "model": "סוברין"
+    },
+    {
+      "id": 521,
+      "manufacturer": "יונדאי",
+      "model": "i10"
+    },
+    {
+      "id": 522,
+      "manufacturer": "יונדאי",
+      "model": "i20"
+    },
+    {
+      "id": 523,
+      "manufacturer": "יונדאי",
+      "model": "i20 קרוס"
+    },
+    {
+      "id": 524,
+      "manufacturer": "יונדאי",
+      "model": "i20N"
+    },
+    {
+      "id": 525,
+      "manufacturer": "יונדאי",
+      "model": "i25"
+    },
+    {
+      "id": 526,
+      "manufacturer": "יונדאי",
+      "model": "i30"
+    },
+    {
+      "id": 527,
+      "manufacturer": "יונדאי",
+      "model": "i30CW"
+    },
+    {
+      "id": 528,
+      "manufacturer": "יונדאי",
+      "model": "i30N"
+    },
+    {
+      "id": 529,
+      "manufacturer": "יונדאי",
+      "model": "i35"
+    },
+    {
+      "id": 530,
+      "manufacturer": "יונדאי",
+      "model": "i40"
+    },
+    {
+      "id": 531,
+      "manufacturer": "יונדאי",
+      "model": "iX20"
+    },
+    {
+      "id": 532,
+      "manufacturer": "יונדאי",
+      "model": "iX35"
+    },
+    {
+      "id": 533,
+      "manufacturer": "יונדאי",
+      "model": "iX55"
+    },
+    {
+      "id": 534,
+      "manufacturer": "יונדאי",
+      "model": "אטוס"
+    },
+    {
+      "id": 535,
+      "manufacturer": "יונדאי",
+      "model": "איוניק"
+    },
+    {
+      "id": 536,
+      "manufacturer": "יונדאי",
+      "model": "איוניק 5"
+    },
+    {
+      "id": 537,
+      "manufacturer": "יונדאי",
+      "model": "איוניק 6"
+    },
+    {
+      "id": 538,
+      "manufacturer": "יונדאי",
+      "model": "אלנטרה (2001-2007)"
+    },
+    {
+      "id": 539,
+      "manufacturer": "יונדאי",
+      "model": "אלנטרה (2016 ואילך)"
+    },
+    {
+      "id": 540,
+      "manufacturer": "יונדאי",
+      "model": "אלנטרה הייבריד (2021 ואילך)"
+    },
+    {
+      "id": 541,
+      "manufacturer": "יונדאי",
+      "model": "אקסנט (עד 2012)"
+    },
+    {
+      "id": 542,
+      "manufacturer": "יונדאי",
+      "model": "אקסנט/ i25 החדשה (2019 ואילך)"
+    },
+    {
+      "id": 543,
+      "manufacturer": "יונדאי",
+      "model": "באיון"
+    },
+    {
+      "id": 544,
+      "manufacturer": "יונדאי",
+      "model": "גאלופר ארוך"
+    },
+    {
+      "id": 545,
+      "manufacturer": "יונדאי",
+      "model": "גאלופר קצר"
+    },
+    {
+      "id": 546,
+      "manufacturer": "יונדאי",
+      "model": "גטס"
+    },
+    {
+      "id": 547,
+      "manufacturer": "יונדאי",
+      "model": "ולוסטר"
+    },
+    {
+      "id": 548,
+      "manufacturer": "יונדאי",
+      "model": "וניו"
+    },
+    {
+      "id": 549,
+      "manufacturer": "יונדאי",
+      "model": "טאראקן"
+    },
+    {
+      "id": 550,
+      "manufacturer": "יונדאי",
+      "model": "טוסון"
+    },
+    {
+      "id": 552,
+      "manufacturer": "יונדאי",
+      "model": "לנטרה"
+    },
+    {
+      "id": 553,
+      "manufacturer": "יונדאי",
+      "model": "סונטה"
+    },
+    {
+      "id": 554,
+      "manufacturer": "יונדאי",
+      "model": "סונטה N"
+    },
+    {
+      "id": 555,
+      "manufacturer": "יונדאי",
+      "model": "סונטה הייבריד"
+    },
+    {
+      "id": 556,
+      "manufacturer": "יונדאי",
+      "model": "סנטה פה"
+    },
+    {
+      "id": 557,
+      "manufacturer": "יונדאי",
+      "model": "פליסדה"
+    },
+    {
+      "id": 558,
+      "manufacturer": "יונדאי",
+      "model": "קונה"
+    },
+    {
+      "id": 559,
+      "manufacturer": "יונדאי",
+      "model": "קונה EV"
+    },
+    {
+      "id": 560,
+      "manufacturer": "יונדאי",
+      "model": "קופה"
+    },
+    {
+      "id": 561,
+      "manufacturer": "יונדאי",
+      "model": "H1"
+    },
+    {
+      "id": 562,
+      "manufacturer": "יונדאי",
+      "model": "H100"
+    },
+    {
+      "id": 563,
+      "manufacturer": "יונדאי",
+      "model": "H100 TRUCK"
+    },
+    {
+      "id": 564,
+      "manufacturer": "יונדאי",
+      "model": "H350"
+    },
+    {
+      "id": 565,
+      "manufacturer": "יונדאי",
+      "model": "i800"
+    },
+    {
+      "id": 566,
+      "manufacturer": "יונדאי",
+      "model": "אנטרקולר"
+    },
+    {
+      "id": 567,
+      "manufacturer": "יונדאי",
+      "model": "מטריקס"
+    },
+    {
+      "id": 568,
+      "manufacturer": "יונדאי",
+      "model": "סטאריה"
+    },
+    {
+      "id": 569,
+      "manufacturer": "יונדאי",
+      "model": "טסלה"
+    },
+    {
+      "id": 570,
+      "manufacturer": "יונדאי",
+      "model": "מודל 3"
+    },
+    {
+      "id": 571,
+      "manufacturer": "יונדאי",
+      "model": "מודל S"
+    },
+    {
+      "id": 572,
+      "manufacturer": "יונדאי",
+      "model": "מודל X"
+    },
+    {
+      "id": 573,
+      "manufacturer": "יונדאי",
+      "model": "מודל Y"
+    },
+    {
+      "id": 574,
+      "manufacturer": "יונדאי",
+      "model": "לאדה"
+    },
+    {
+      "id": 575,
+      "manufacturer": "יונדאי",
+      "model": "ניבה"
+    },
+    {
+      "id": 576,
+      "manufacturer": "יונדאי",
+      "model": "סמרה"
+    },
+    {
+      "id": 578,
+      "manufacturer": "לינקולן",
+      "model": "LS"
+    },
+    {
+      "id": 579,
+      "manufacturer": "לינקולן",
+      "model": "MARK LT"
+    },
+    {
+      "id": 580,
+      "manufacturer": "לינקולן",
+      "model": "MKC"
+    },
+    {
+      "id": 581,
+      "manufacturer": "לינקולן",
+      "model": "MKS"
+    },
+    {
+      "id": 582,
+      "manufacturer": "לינקולן",
+      "model": "MKT"
+    },
+    {
+      "id": 583,
+      "manufacturer": "לינקולן",
+      "model": "MKX"
+    },
+    {
+      "id": 584,
+      "manufacturer": "לינקולן",
+      "model": "MKZ"
+    },
+    {
+      "id": 585,
+      "manufacturer": "לינקולן",
+      "model": "אביאטור"
+    },
+    {
+      "id": 586,
+      "manufacturer": "לינקולן",
+      "model": "זפיר"
+    },
+    {
+      "id": 587,
+      "manufacturer": "לינקולן",
+      "model": "טאון קאר"
+    },
+    {
+      "id": 588,
+      "manufacturer": "לינקולן",
+      "model": "נביגטור"
+    },
+    {
+      "id": 590,
+      "manufacturer": "לינקולן",
+      "model": "A01"
+    },
+    {
+      "id": 591,
+      "manufacturer": "ליפמוטור / leapmotor",
+      "model": "T03"
+    },
+    {
+      "id": 592,
+      "manufacturer": "לינק&קו / Lynk&Co",
+      "model": "1"
+    },
+    {
+      "id": 593,
+      "manufacturer": "לנד רובר",
+      "model": "דיסקברי 1"
+    },
+    {
+      "id": 594,
+      "manufacturer": "לנד רובר",
+      "model": "דיסקברי 2"
+    },
+    {
+      "id": 595,
+      "manufacturer": "לנד רובר",
+      "model": "דיסקברי 3"
+    },
+    {
+      "id": 596,
+      "manufacturer": "לנד רובר",
+      "model": "דיסקברי 4"
+    },
+    {
+      "id": 597,
+      "manufacturer": "לנד רובר",
+      "model": "דיסקברי 5"
+    },
+    {
+      "id": 598,
+      "manufacturer": "לנד רובר",
+      "model": "דיסקברי ספורט"
+    },
+    {
+      "id": 599,
+      "manufacturer": "לנד רובר",
+      "model": "דיפנדר"
+    },
+    {
+      "id": 600,
+      "manufacturer": "לנד רובר",
+      "model": "פרילנדר 1"
+    },
+    {
+      "id": 601,
+      "manufacturer": "לנד רובר",
+      "model": "פרילנדר 2"
+    },
+    {
+      "id": 614,
+      "manufacturer": "לקסוס",
+      "model": "CS"
+    },
+    {
+      "id": 615,
+      "manufacturer": "לקסוס",
+      "model": "CT200H"
+    },
+    {
+      "id": 616,
+      "manufacturer": "לקסוס",
+      "model": "ES300H"
+    },
+    {
+      "id": 617,
+      "manufacturer": "לקסוס",
+      "model": "GS250"
+    },
+    {
+      "id": 618,
+      "manufacturer": "לקסוס",
+      "model": "GS300"
+    },
+    {
+      "id": 619,
+      "manufacturer": "לקסוס",
+      "model": "GS300H"
+    },
+    {
+      "id": 620,
+      "manufacturer": "לקסוס",
+      "model": "GS450H"
+    },
+    {
+      "id": 621,
+      "manufacturer": "לקסוס",
+      "model": "GX460"
+    },
+    {
+      "id": 622,
+      "manufacturer": "לקסוס",
+      "model": "IS250"
+    },
+    {
+      "id": 623,
+      "manufacturer": "לקסוס",
+      "model": "IS300"
+    },
+    {
+      "id": 624,
+      "manufacturer": "לקסוס",
+      "model": "IS300h"
+    },
+    {
+      "id": 625,
+      "manufacturer": "לקסוס",
+      "model": "LBX"
+    },
+    {
+      "id": 626,
+      "manufacturer": "לקסוס",
+      "model": "LC500"
+    },
+    {
+      "id": 627,
+      "manufacturer": "לקסוס",
+      "model": "LM"
+    },
+    {
+      "id": 628,
+      "manufacturer": "לקסוס",
+      "model": "LS400"
+    },
+    {
+      "id": 629,
+      "manufacturer": "לקסוס",
+      "model": "LS430"
+    },
+    {
+      "id": 630,
+      "manufacturer": "לקסוס",
+      "model": "LS460"
+    },
+    {
+      "id": 631,
+      "manufacturer": "לקסוס",
+      "model": "LS500"
+    },
+    {
+      "id": 632,
+      "manufacturer": "לקסוס",
+      "model": "LS500H"
+    },
+    {
+      "id": 633,
+      "manufacturer": "לקסוס",
+      "model": "LS600HL"
+    },
+    {
+      "id": 634,
+      "manufacturer": "לקסוס",
+      "model": "LX570"
+    },
+    {
+      "id": 635,
+      "manufacturer": "לקסוס",
+      "model": "LX600"
+    },
+    {
+      "id": 636,
+      "manufacturer": "לקסוס",
+      "model": "NX"
+    },
+    {
+      "id": 637,
+      "manufacturer": "לקסוס",
+      "model": "RC"
+    },
+    {
+      "id": 638,
+      "manufacturer": "לקסוס",
+      "model": "RX200t"
+    },
+    {
+      "id": 639,
+      "manufacturer": "לקסוס",
+      "model": "RX300"
+    },
+    {
+      "id": 640,
+      "manufacturer": "לקסוס",
+      "model": "RX330"
+    },
+    {
+      "id": 641,
+      "manufacturer": "לקסוס",
+      "model": "RX350"
+    },
+    {
+      "id": 642,
+      "manufacturer": "לקסוס",
+      "model": "RX400h"
+    },
+    {
+      "id": 643,
+      "manufacturer": "לקסוס",
+      "model": "RX450H"
+    },
+    {
+      "id": 644,
+      "manufacturer": "לקסוס",
+      "model": "RX500H"
+    },
+    {
+      "id": 645,
+      "manufacturer": "לקסוס",
+      "model": "RZ450e"
+    },
+    {
+      "id": 646,
+      "manufacturer": "לקסוס",
+      "model": "SC430"
+    },
+    {
+      "id": 647,
+      "manufacturer": "לקסוס",
+      "model": "UX"
+    },
+    {
+      "id": 648,
+      "manufacturer": "לקסוס",
+      "model": "GX470"
+    },
+    {
+      "id": 649,
+      "manufacturer": "למבורגיני",
+      "model": "Revuelto"
+    },
+    {
+      "id": 650,
+      "manufacturer": "למבורגיני",
+      "model": "אורוס"
+    },
+    {
+      "id": 651,
+      "manufacturer": "למבורגיני",
+      "model": "הורקן"
+    },
+    {
+      "id": 652,
+      "manufacturer": "מאזדה",
+      "model": "121"
+    },
+    {
+      "id": 653,
+      "manufacturer": "מאזדה",
+      "model": "2"
+    },
+    {
+      "id": 654,
+      "manufacturer": "מאזדה",
+      "model": "2 דמיו"
+    },
+    {
+      "id": 655,
+      "manufacturer": "מאזדה",
+      "model": "3"
+    },
+    {
+      "id": 656,
+      "manufacturer": "מאזדה",
+      "model": "323"
+    },
+    {
+      "id": 657,
+      "manufacturer": "מאזדה",
+      "model": "323 לאנטיס"
+    },
+    {
+      "id": 658,
+      "manufacturer": "מאזדה",
+      "model": "5"
+    },
+    {
+      "id": 659,
+      "manufacturer": "מאזדה",
+      "model": "6"
+    },
+    {
+      "id": 660,
+      "manufacturer": "מאזדה",
+      "model": "626"
+    },
+    {
+      "id": 661,
+      "manufacturer": "מאזדה",
+      "model": "CX-3"
+    },
+    {
+      "id": 662,
+      "manufacturer": "מאזדה",
+      "model": "CX-30"
+    },
+    {
+      "id": 663,
+      "manufacturer": "מאזדה",
+      "model": "CX-5"
+    },
+    {
+      "id": 664,
+      "manufacturer": "מאזדה",
+      "model": "CX-50"
+    },
+    {
+      "id": 665,
+      "manufacturer": "מאזדה",
+      "model": "CX-60"
+    },
+    {
+      "id": 666,
+      "manufacturer": "מאזדה",
+      "model": "CX-9"
+    },
+    {
+      "id": 667,
+      "manufacturer": "מאזדה",
+      "model": "CX-90"
+    },
+    {
+      "id": 668,
+      "manufacturer": "מאזדה",
+      "model": "MPV"
+    },
+    {
+      "id": 669,
+      "manufacturer": "מאזדה",
+      "model": "MX-3"
+    },
+    {
+      "id": 670,
+      "manufacturer": "מאזדה",
+      "model": "MX-30"
+    },
+    {
+      "id": 671,
+      "manufacturer": "מאזדה",
+      "model": "MX-5"
+    },
+    {
+      "id": 672,
+      "manufacturer": "מאזדה",
+      "model": "MX-6"
+    },
+    {
+      "id": 673,
+      "manufacturer": "מאזדה",
+      "model": "RX-8"
+    },
+    {
+      "id": 674,
+      "manufacturer": "מאזדה",
+      "model": "דמיו"
+    },
+    {
+      "id": 675,
+      "manufacturer": "מאזדה",
+      "model": "טריביוט"
+    },
+    {
+      "id": 676,
+      "manufacturer": "מאזדה",
+      "model": "פרמסי"
+    },
+    {
+      "id": 677,
+      "manufacturer": "מאזדה",
+      "model": "קסדוס"
+    },
+    {
+      "id": 678,
+      "manufacturer": "מאזדה",
+      "model": "B2000"
+    },
+    {
+      "id": 679,
+      "manufacturer": "מאזדה",
+      "model": "B2500 2X4"
+    },
+    {
+      "id": 680,
+      "manufacturer": "מאזדה",
+      "model": "B2500 4X4"
+    },
+    {
+      "id": 681,
+      "manufacturer": "מאזדה",
+      "model": "BT50 2X4"
+    },
+    {
+      "id": 682,
+      "manufacturer": "מאזדה",
+      "model": "BT50 4X4"
+    },
+    {
+      "id": 683,
+      "manufacturer": "מאזדה",
+      "model": "CX-07"
+    },
+    {
+      "id": 684,
+      "manufacturer": "מאזדה",
+      "model": "E2000"
+    },
+    {
+      "id": 685,
+      "manufacturer": "מזראטי",
+      "model": "MC20"
+    },
+    {
+      "id": 686,
+      "manufacturer": "מזראטי",
+      "model": "גיבלי"
+    },
+    {
+      "id": 687,
+      "manufacturer": "מזראטי",
+      "model": "גראן-טוריסמו"
+    },
+    {
+      "id": 688,
+      "manufacturer": "מזראטי",
+      "model": "גראן-קבריו"
+    },
+    {
+      "id": 689,
+      "manufacturer": "מזראטי",
+      "model": "גרקאלה"
+    },
+    {
+      "id": 690,
+      "manufacturer": "מזראטי",
+      "model": "לבנטה"
+    },
+    {
+      "id": 691,
+      "manufacturer": "מזראטי",
+      "model": "קוואטרופורטה"
+    },
+    {
+      "id": 692,
+      "manufacturer": "מיני",
+      "model": "JCW"
+    },
+    {
+      "id": 693,
+      "manufacturer": "מיני",
+      "model": "ONE"
+    },
+    {
+      "id": 694,
+      "manufacturer": "מיני",
+      "model": "פייסמן"
+    },
+    {
+      "id": 695,
+      "manufacturer": "מיני",
+      "model": "קאנטרימן"
+    },
+    {
+      "id": 696,
+      "manufacturer": "מיני",
+      "model": "קופה"
+    },
+    {
+      "id": 697,
+      "manufacturer": "מיני",
+      "model": "קופר"
+    },
+    {
+      "id": 698,
+      "manufacturer": "מיני",
+      "model": "קופר קבריולט"
+    },
+    {
+      "id": 699,
+      "manufacturer": "מיני",
+      "model": "קלאבמן"
+    },
+    {
+      "id": 700,
+      "manufacturer": "מיני",
+      "model": "רודסטר"
+    },
+    {
+      "id": 701,
+      "manufacturer": "מיני",
+      "model": "מאן"
+    },
+    {
+      "id": 702,
+      "manufacturer": "מיני",
+      "model": "TGE"
+    },
+    {
+      "id": 703,
+      "manufacturer": "מיצובישי",
+      "model": "ASX"
+    },
+    {
+      "id": 704,
+      "manufacturer": "מיצובישי",
+      "model": "GT3000"
+    },
+    {
+      "id": 705,
+      "manufacturer": "מיצובישי",
+      "model": "I-MIEV"
+    },
+    {
+      "id": 706,
+      "manufacturer": "מיצובישי",
+      "model": "אאוטלנדר"
+    },
+    {
+      "id": 707,
+      "manufacturer": "מיצובישי",
+      "model": "אאוטלנדר PHEV"
+    },
+    {
+      "id": 709,
+      "manufacturer": "מיצובישי",
+      "model": "אקליפס"
+    },
+    {
+      "id": 710,
+      "manufacturer": "מיצובישי",
+      "model": "אקליפס קרוס"
+    },
+    {
+      "id": 711,
+      "manufacturer": "מיצובישי",
+      "model": "גאלאנט"
+    },
+    {
+      "id": 712,
+      "manufacturer": "מיצובישי",
+      "model": "גרנדיס"
+    },
+    {
+      "id": 713,
+      "manufacturer": "מיצובישי",
+      "model": "כריזמה"
+    },
+    {
+      "id": 714,
+      "manufacturer": "מיצובישי",
+      "model": "לנסר (עד 1993)"
+    },
+    {
+      "id": 715,
+      "manufacturer": "מיצובישי",
+      "model": "לנסר איוולושן"
+    },
+    {
+      "id": 716,
+      "manufacturer": "מיצובישי",
+      "model": "לנסר הדור החדש"
+    },
+    {
+      "id": 717,
+      "manufacturer": "מיצובישי",
+      "model": "לנסר ספורטבק"
+    },
+    {
+      "id": 718,
+      "manufacturer": "מיצובישי",
+      "model": "לנסר קלאסיק"
+    },
+    {
+      "id": 719,
+      "manufacturer": "מיצובישי",
+      "model": "מונטרו ספורט"
+    },
+    {
+      "id": 720,
+      "manufacturer": "מיצובישי",
+      "model": "סופר לנסר"
+    },
+    {
+      "id": 721,
+      "manufacturer": "מיצובישי",
+      "model": "סיגמא"
+    },
+    {
+      "id": 722,
+      "manufacturer": "מיצובישי",
+      "model": "ספייס וואגן"
+    },
+    {
+      "id": 723,
+      "manufacturer": "מיצובישי",
+      "model": "ספייס סטאר"
+    },
+    {
+      "id": 724,
+      "manufacturer": "מיצובישי",
+      "model": "ספייס ראנר"
+    },
+    {
+      "id": 729,
+      "manufacturer": "מיצובישי",
+      "model": "קולט"
+    },
+    {
+      "id": 730,
+      "manufacturer": "מיצובישי",
+      "model": "L200 האנטר 2X4"
+    },
+    {
+      "id": 731,
+      "manufacturer": "מיצובישי",
+      "model": "L200 האנטר 4X4"
+    },
+    {
+      "id": 732,
+      "manufacturer": "מיצובישי",
+      "model": "L300"
+    },
+    {
+      "id": 733,
+      "manufacturer": "מיצובישי",
+      "model": "בופאלו"
+    },
+    {
+      "id": 734,
+      "manufacturer": "מיצובישי",
+      "model": "טריטון"
+    },
+    {
+      "id": 735,
+      "manufacturer": "מיצובישי",
+      "model": "טרייטון / L200 2X4"
+    },
+    {
+      "id": 736,
+      "manufacturer": "מיצובישי",
+      "model": "טרייטון / L200 4X4"
+    },
+    {
+      "id": 737,
+      "manufacturer": "מיצובישי",
+      "model": "מאגנום 2X4"
+    },
+    {
+      "id": 738,
+      "manufacturer": "מיצובישי",
+      "model": "מאגנום 4X4"
+    },
+    {
+      "id": 739,
+      "manufacturer": "מיצובישי",
+      "model": "ספייס גיר L400"
+    },
+    {
+      "id": 740,
+      "manufacturer": "מיצובישי",
+      "model": "קאנטר"
+    },
+    {
+      "id": 741,
+      "manufacturer": "מרצדס",
+      "model": "A-Class"
+    },
+    {
+      "id": 742,
+      "manufacturer": "מרצדס",
+      "model": "B-Class"
+    },
+    {
+      "id": 743,
+      "manufacturer": "מרצדס",
+      "model": "B-Class Taxi"
+    },
+    {
+      "id": 744,
+      "manufacturer": "מרצדס",
+      "model": "C-Class"
+    },
+    {
+      "id": 745,
+      "manufacturer": "מרצדס",
+      "model": "C-Class Taxi"
+    },
+    {
+      "id": 746,
+      "manufacturer": "מרצדס",
+      "model": "C-Class קופה / קבריולט"
+    },
+    {
+      "id": 747,
+      "manufacturer": "מרצדס",
+      "model": "CE"
+    },
+    {
+      "id": 748,
+      "manufacturer": "מרצדס",
+      "model": "CL"
+    },
+    {
+      "id": 749,
+      "manufacturer": "מרצדס",
+      "model": "CLA"
+    },
+    {
+      "id": 750,
+      "manufacturer": "מרצדס",
+      "model": "CLC"
+    },
+    {
+      "id": 751,
+      "manufacturer": "מרצדס",
+      "model": "CLE"
+    },
+    {
+      "id": 752,
+      "manufacturer": "מרצדס",
+      "model": "CLK"
+    },
+    {
+      "id": 753,
+      "manufacturer": "מרצדס",
+      "model": "CLS"
+    },
+    {
+      "id": 754,
+      "manufacturer": "מרצדס",
+      "model": "E-Class"
+    },
+    {
+      "id": 755,
+      "manufacturer": "מרצדס",
+      "model": "E-Class Taxi"
+    },
+    {
+      "id": 756,
+      "manufacturer": "מרצדס",
+      "model": "E-Class קופה / קבריולט"
+    },
+    {
+      "id": 757,
+      "manufacturer": "מרצדס",
+      "model": "EQA"
+    },
+    {
+      "id": 758,
+      "manufacturer": "מרצדס",
+      "model": "EQA250 Plus"
+    },
+    {
+      "id": 759,
+      "manufacturer": "מרצדס",
+      "model": "EQB"
+    },
+    {
+      "id": 760,
+      "manufacturer": "מרצדס",
+      "model": "EQC"
+    },
+    {
+      "id": 761,
+      "manufacturer": "מרצדס",
+      "model": "EQE"
+    },
+    {
+      "id": 762,
+      "manufacturer": "מרצדס",
+      "model": "EQE SUV"
+    },
+    {
+      "id": 763,
+      "manufacturer": "מרצדס",
+      "model": "EQS"
+    },
+    {
+      "id": 764,
+      "manufacturer": "מרצדס",
+      "model": "EQS SUV"
+    },
+    {
+      "id": 765,
+      "manufacturer": "מרצדס",
+      "model": "EQV"
+    },
+    {
+      "id": 766,
+      "manufacturer": "מרצדס",
+      "model": "G Class"
+    },
+    {
+      "id": 767,
+      "manufacturer": "מרצדס",
+      "model": "GL Class"
+    },
+    {
+      "id": 768,
+      "manufacturer": "מרצדס",
+      "model": "GLA"
+    },
+    {
+      "id": 769,
+      "manufacturer": "מרצדס",
+      "model": "GLB"
+    },
+    {
+      "id": 770,
+      "manufacturer": "מרצדס",
+      "model": "GLC"
+    },
+    {
+      "id": 771,
+      "manufacturer": "מרצדס",
+      "model": "GLC-Class קופה"
+    },
+    {
+      "id": 772,
+      "manufacturer": "מרצדס",
+      "model": "GLE"
+    },
+    {
+      "id": 773,
+      "manufacturer": "מרצדס",
+      "model": "GLE קופה"
+    },
+    {
+      "id": 774,
+      "manufacturer": "מרצדס",
+      "model": "GLK Class"
+    },
+    {
+      "id": 775,
+      "manufacturer": "מרצדס",
+      "model": "GLS Class"
+    },
+    {
+      "id": 776,
+      "manufacturer": "מרצדס",
+      "model": "GT AMG"
+    },
+    {
+      "id": 777,
+      "manufacturer": "מרצדס",
+      "model": "ML Class"
+    },
+    {
+      "id": 778,
+      "manufacturer": "מרצדס",
+      "model": "R-Class"
+    },
+    {
+      "id": 779,
+      "manufacturer": "מרצדס",
+      "model": "S-Class"
+    },
+    {
+      "id": 780,
+      "manufacturer": "מרצדס",
+      "model": "S-Class קבריולט"
+    },
+    {
+      "id": 781,
+      "manufacturer": "מרצדס",
+      "model": "S-Class קופה"
+    },
+    {
+      "id": 782,
+      "manufacturer": "מרצדס",
+      "model": "SE"
+    },
+    {
+      "id": 783,
+      "manufacturer": "מרצדס",
+      "model": "SL"
+    },
+    {
+      "id": 784,
+      "manufacturer": "מרצדס",
+      "model": "SLC"
+    },
+    {
+      "id": 785,
+      "manufacturer": "מרצדס",
+      "model": "SLK"
+    },
+    {
+      "id": 786,
+      "manufacturer": "מרצדס",
+      "model": "SLS"
+    },
+    {
+      "id": 787,
+      "manufacturer": "מרצדס",
+      "model": "V-Class"
+    },
+    {
+      "id": 788,
+      "manufacturer": "מרצדס",
+      "model": "V-Class Taxi"
+    },
+    {
+      "id": 789,
+      "manufacturer": "מרצדס",
+      "model": "מטריס"
+    },
+    {
+      "id": 790,
+      "manufacturer": "מרצדס",
+      "model": "313"
+    },
+    {
+      "id": 791,
+      "manufacturer": "מרצדס",
+      "model": "316"
+    },
+    {
+      "id": 792,
+      "manufacturer": "מרצדס",
+      "model": "319"
+    },
+    {
+      "id": 793,
+      "manufacturer": "מרצדס",
+      "model": "413"
+    },
+    {
+      "id": 794,
+      "manufacturer": "מרצדס",
+      "model": "X-Class"
+    },
+    {
+      "id": 795,
+      "manufacturer": "מרצדס",
+      "model": "אטגו"
+    },
+    {
+      "id": 796,
+      "manufacturer": "מרצדס",
+      "model": "ואריו"
+    },
+    {
+      "id": 797,
+      "manufacturer": "מרצדס",
+      "model": "ויאנו"
+    },
+    {
+      "id": 798,
+      "manufacturer": "מרצדס",
+      "model": "ויטו"
+    },
+    {
+      "id": 799,
+      "manufacturer": "מרצדס",
+      "model": "ויטו חשמלי"
+    },
+    {
+      "id": 800,
+      "manufacturer": "מרצדס",
+      "model": "ויטו טקסי"
+    },
+    {
+      "id": 801,
+      "manufacturer": "מרצדס",
+      "model": "יונימוג"
+    },
+    {
+      "id": 802,
+      "manufacturer": "מרצדס",
+      "model": "סיטאן / Citan"
+    },
+    {
+      "id": 803,
+      "manufacturer": "מרצדס",
+      "model": "ספרינטר 313/316"
+    },
+    {
+      "id": 804,
+      "manufacturer": "מרצדס",
+      "model": "ספרינטר היסעים"
+    },
+    {
+      "id": 805,
+      "manufacturer": "מרצדס",
+      "model": "ספרינטר מסחרי"
+    },
+    {
+      "id": 806,
+      "manufacturer": "מרצדס",
+      "model": "מקלארן / McLaren"
+    },
+    {
+      "id": 807,
+      "manufacturer": "מרצדס",
+      "model": "720S"
+    },
+    {
+      "id": 808,
+      "manufacturer": "מרצדס",
+      "model": "מקסוס"
+    },
+    {
+      "id": 809,
+      "manufacturer": "מרצדס",
+      "model": "+ אי-יוניק 5 E-uniq"
+    },
+    {
+      "id": 810,
+      "manufacturer": "מרצדס",
+      "model": "אי-יוניק 5 E-uniq"
+    },
+    {
+      "id": 811,
+      "manufacturer": "מרצדס",
+      "model": "אי-יוניק 6 E-uniq"
+    },
+    {
+      "id": 812,
+      "manufacturer": "מרצדס",
+      "model": "V80"
+    },
+    {
+      "id": 813,
+      "manufacturer": "מרצדס",
+      "model": "אי-דליבר 9"
+    },
+    {
+      "id": 814,
+      "manufacturer": "מרצדס",
+      "model": "דליבר 3"
+    },
+    {
+      "id": 815,
+      "manufacturer": "ניסאן",
+      "model": "370Z"
+    },
+    {
+      "id": 816,
+      "manufacturer": "ניסאן",
+      "model": "Ariya"
+    },
+    {
+      "id": 817,
+      "manufacturer": "ניסאן",
+      "model": "GT-R"
+    },
+    {
+      "id": 818,
+      "manufacturer": "ניסאן",
+      "model": "SX 200"
+    },
+    {
+      "id": 819,
+      "manufacturer": "ניסאן",
+      "model": "Z350"
+    },
+    {
+      "id": 820,
+      "manufacturer": "ניסאן",
+      "model": "אלטימה"
+    },
+    {
+      "id": 821,
+      "manufacturer": "ניסאן",
+      "model": "אלמרה"
+    },
+    {
+      "id": 822,
+      "manufacturer": "ניסאן",
+      "model": "אקס טרייל"
+    },
+    {
+      "id": 823,
+      "manufacturer": "ניסאן",
+      "model": "ארמדה"
+    },
+    {
+      "id": 825,
+      "manufacturer": "ניסאן",
+      "model": "טידה"
+    },
+    {
+      "id": 826,
+      "manufacturer": "ניסאן",
+      "model": "טראנו ארוך"
+    },
+    {
+      "id": 827,
+      "manufacturer": "ניסאן",
+      "model": "טראנו קצר"
+    },
+    {
+      "id": 828,
+      "manufacturer": "ניסאן",
+      "model": "ליף"
+    },
+    {
+      "id": 829,
+      "manufacturer": "ניסאן",
+      "model": "מוראנו"
+    },
+    {
+      "id": 830,
+      "manufacturer": "ניסאן",
+      "model": "מיקרה"
+    },
+    {
+      "id": 831,
+      "manufacturer": "ניסאן",
+      "model": "מקסימה"
+    },
+    {
+      "id": 832,
+      "manufacturer": "ניסאן",
+      "model": "נוט / NOTE"
+    },
+    {
+      "id": 833,
+      "manufacturer": "ניסאן",
+      "model": "סאני"
+    },
+    {
+      "id": 834,
+      "manufacturer": "ניסאן",
+      "model": "סנטרה"
+    },
+    {
+      "id": 836,
+      "manufacturer": "ניסאן",
+      "model": "פולסר / Pulsar"
+    },
+    {
+      "id": 837,
+      "manufacturer": "ניסאן",
+      "model": "פטרול"
+    },
+    {
+      "id": 838,
+      "manufacturer": "ניסאן",
+      "model": "פרימרה"
+    },
+    {
+      "id": 839,
+      "manufacturer": "ניסאן",
+      "model": "קווסט"
+    },
+    {
+      "id": 840,
+      "manufacturer": "ניסאן",
+      "model": "קשקאי"
+    },
+    {
+      "id": 841,
+      "manufacturer": "ניסאן",
+      "model": "קשקאי פלוס 2"
+    },
+    {
+      "id": 842,
+      "manufacturer": "ניסאן",
+      "model": "NV200"
+    },
+    {
+      "id": 843,
+      "manufacturer": "ניסאן",
+      "model": "אקס טרה"
+    },
+    {
+      "id": 844,
+      "manufacturer": "ניסאן",
+      "model": "וואנט"
+    },
+    {
+      "id": 845,
+      "manufacturer": "ניסאן",
+      "model": "ווינר 2X4"
+    },
+    {
+      "id": 846,
+      "manufacturer": "ניסאן",
+      "model": "ווינר 4X4"
+    },
+    {
+      "id": 847,
+      "manufacturer": "ניסאן",
+      "model": "טנדר"
+    },
+    {
+      "id": 848,
+      "manufacturer": "ניסאן",
+      "model": "טרייד"
+    },
+    {
+      "id": 849,
+      "manufacturer": "ניסאן",
+      "model": "לארגו 2X4"
+    },
+    {
+      "id": 850,
+      "manufacturer": "ניסאן",
+      "model": "לארגו 4X4"
+    },
+    {
+      "id": 851,
+      "manufacturer": "ניסאן",
+      "model": "נבארה 2X4"
+    },
+    {
+      "id": 852,
+      "manufacturer": "ניסאן",
+      "model": "נבארה 4X4"
+    },
+    {
+      "id": 853,
+      "manufacturer": "ניסאן",
+      "model": "סרנה 2X4"
+    },
+    {
+      "id": 854,
+      "manufacturer": "ניסאן",
+      "model": "סרנה 4X4"
+    },
+    {
+      "id": 855,
+      "manufacturer": "ניסאן",
+      "model": "קבסטאר"
+    },
+    {
+      "id": 856,
+      "manufacturer": "ניסאן",
+      "model": "סאאב"
+    },
+    {
+      "id": 857,
+      "manufacturer": "ניסאן",
+      "model": "09-מרץ"
+    },
+    {
+      "id": 858,
+      "manufacturer": "ניסאן",
+      "model": "09-מאי"
+    },
+    {
+      "id": 859,
+      "manufacturer": "ניסאן",
+      "model": "900"
+    },
+    {
+      "id": 860,
+      "manufacturer": "ניסאן",
+      "model": "9000"
+    },
+    {
+      "id": 861,
+      "manufacturer": "ניסאן",
+      "model": "קונברטיבל"
+    },
+    {
+      "id": 863,
+      "manufacturer": "ניסאן",
+      "model": "סיטי ספיריט"
+    },
+    {
+      "id": 864,
+      "manufacturer": "ניסאן",
+      "model": "ניאו / NIO"
+    },
+    {
+      "id": 865,
+      "manufacturer": "ניסאן",
+      "model": "EL7"
+    },
+    {
+      "id": 866,
+      "manufacturer": "ניסאן",
+      "model": "ES8"
+    },
+    {
+      "id": 867,
+      "manufacturer": "ניסאן",
+      "model": "ET5"
+    },
+    {
+      "id": 868,
+      "manufacturer": "סאנגיונג",
+      "model": "אקטיון"
+    },
+    {
+      "id": 869,
+      "manufacturer": "סאנגיונג",
+      "model": "טיבולי"
+    },
+    {
+      "id": 870,
+      "manufacturer": "סאנגיונג",
+      "model": "מוסו"
+    },
+    {
+      "id": 871,
+      "manufacturer": "סאנגיונג",
+      "model": "קורנדו"
+    },
+    {
+      "id": 872,
+      "manufacturer": "סאנגיונג",
+      "model": "קיירון"
+    },
+    {
+      "id": 873,
+      "manufacturer": "סאנגיונג",
+      "model": "רודיוס"
+    },
+    {
+      "id": 874,
+      "manufacturer": "סאנגיונג",
+      "model": "רקסטון"
+    },
+    {
+      "id": 875,
+      "manufacturer": "סאנגיונג",
+      "model": "אקטיון ספורט"
+    },
+    {
+      "id": 876,
+      "manufacturer": "סאנגיונג",
+      "model": "מוסו 2X4"
+    },
+    {
+      "id": 877,
+      "manufacturer": "סאנגיונג",
+      "model": "מוסו 4X4"
+    },
+    {
+      "id": 879,
+      "manufacturer": "סובארו",
+      "model": "B3 סדאן"
+    },
+    {
+      "id": 880,
+      "manufacturer": "סובארו",
+      "model": "B4"
+    },
+    {
+      "id": 881,
+      "manufacturer": "סובארו",
+      "model": "B9 טריבקה"
+    },
+    {
+      "id": 882,
+      "manufacturer": "סובארו",
+      "model": "BRZ"
+    },
+    {
+      "id": 883,
+      "manufacturer": "סובארו",
+      "model": "SVX"
+    },
+    {
+      "id": 884,
+      "manufacturer": "סובארו",
+      "model": "XV"
+    },
+    {
+      "id": 885,
+      "manufacturer": "סובארו",
+      "model": "אאוטבק"
+    },
+    {
+      "id": 886,
+      "manufacturer": "סובארו",
+      "model": "אאוטבק החדשה"
+    },
+    {
+      "id": 887,
+      "manufacturer": "סובארו",
+      "model": "אבולטיס"
+    },
+    {
+      "id": 888,
+      "manufacturer": "סובארו",
+      "model": "אימפרזה WRX STI"
+    },
+    {
+      "id": 889,
+      "manufacturer": "סובארו",
+      "model": "אימפרזה גרנד לאונה"
+    },
+    {
+      "id": 890,
+      "manufacturer": "סובארו",
+      "model": "אימפרזה החדשה"
+    },
+    {
+      "id": 891,
+      "manufacturer": "סובארו",
+      "model": "אימפרזה טורבו"
+    },
+    {
+      "id": 894,
+      "manufacturer": "סובארו",
+      "model": "לאונה"
+    },
+    {
+      "id": 895,
+      "manufacturer": "סובארו",
+      "model": "לבורג"
+    },
+    {
+      "id": 896,
+      "manufacturer": "סובארו",
+      "model": "לגאסי"
+    },
+    {
+      "id": 897,
+      "manufacturer": "סובארו",
+      "model": "פורסטר"
+    },
+    {
+      "id": 898,
+      "manufacturer": "סובארו",
+      "model": "קרוסטרק"
+    },
+    {
+      "id": 899,
+      "manufacturer": "סובארו",
+      "model": "E10"
+    },
+    {
+      "id": 900,
+      "manufacturer": "סובארו",
+      "model": "E12"
+    },
+    {
+      "id": 901,
+      "manufacturer": "סובארו",
+      "model": "GLF"
+    },
+    {
+      "id": 902,
+      "manufacturer": "סובארו",
+      "model": "טנדר 2X4"
+    },
+    {
+      "id": 903,
+      "manufacturer": "סובארו",
+      "model": "טנדר 4X4"
+    },
+    {
+      "id": 904,
+      "manufacturer": "סובארו",
+      "model": "רקס"
+    },
+    {
+      "id": 905,
+      "manufacturer": "סובארו",
+      "model": "סאנשיין"
+    },
+    {
+      "id": 906,
+      "manufacturer": "סובארו",
+      "model": "M2"
+    },
+    {
+      "id": 907,
+      "manufacturer": "סובארו",
+      "model": "סאן ליוינג / Sun Living"
+    },
+    {
+      "id": 908,
+      "manufacturer": "סובארו",
+      "model": "S-SERIES"
+    },
+    {
+      "id": 909,
+      "manufacturer": "סובארו",
+      "model": "V-SERIES"
+    },
+    {
+      "id": 910,
+      "manufacturer": "סוזוקי",
+      "model": "SX4"
+    },
+    {
+      "id": 911,
+      "manufacturer": "סוזוקי",
+      "model": "SX4 קרוסאובר"
+    },
+    {
+      "id": 912,
+      "manufacturer": "סוזוקי",
+      "model": "XL7"
+    },
+    {
+      "id": 913,
+      "manufacturer": "סוזוקי",
+      "model": "איגניס"
+    },
+    {
+      "id": 914,
+      "manufacturer": "סוזוקי",
+      "model": "אלטו"
+    },
+    {
+      "id": 915,
+      "manufacturer": "סוזוקי",
+      "model": "בלנו"
+    },
+    {
+      "id": 917,
+      "manufacturer": "סוזוקי",
+      "model": "גרנד ויטרה"
+    },
+    {
+      "id": 918,
+      "manufacturer": "סוזוקי",
+      "model": "וואגון"
+    },
+    {
+      "id": 919,
+      "manufacturer": "סוזוקי",
+      "model": "ויטרה"
+    },
+    {
+      "id": 920,
+      "manufacturer": "סוזוקי",
+      "model": "ליאנה"
+    },
+    {
+      "id": 921,
+      "manufacturer": "סוזוקי",
+      "model": "מרוטי"
+    },
+    {
+      "id": 922,
+      "manufacturer": "סוזוקי",
+      "model": "סוויפט"
+    },
+    {
+      "id": 923,
+      "manufacturer": "סוזוקי",
+      "model": "סלריו"
+    },
+    {
+      "id": 924,
+      "manufacturer": "סוזוקי",
+      "model": "סמוראי"
+    },
+    {
+      "id": 925,
+      "manufacturer": "סוזוקי",
+      "model": "ספלאש"
+    },
+    {
+      "id": 926,
+      "manufacturer": "סוזוקי",
+      "model": "X90"
+    },
+    {
+      "id": 927,
+      "manufacturer": "סוזוקי",
+      "model": "טנדר"
+    },
+    {
+      "id": 928,
+      "manufacturer": "סוזוקי",
+      "model": "סופר בלנו"
+    },
+    {
+      "id": 929,
+      "manufacturer": "סוזוקי",
+      "model": "קארי"
+    },
+    {
+      "id": 930,
+      "manufacturer": "סיאט",
+      "model": "אטקה"
+    },
+    {
+      "id": 931,
+      "manufacturer": "סיאט",
+      "model": "איביזה"
+    },
+    {
+      "id": 932,
+      "manufacturer": "סיאט",
+      "model": "אלהמברה"
+    },
+    {
+      "id": 933,
+      "manufacturer": "סיאט",
+      "model": "אלתיאה"
+    },
+    {
+      "id": 934,
+      "manufacturer": "סיאט",
+      "model": "אלתיאה XL"
+    },
+    {
+      "id": 935,
+      "manufacturer": "סיאט",
+      "model": "ארונה"
+    },
+    {
+      "id": 936,
+      "manufacturer": "סיאט",
+      "model": "טולדו"
+    },
+    {
+      "id": 937,
+      "manufacturer": "סיאט",
+      "model": "טראקו"
+    },
+    {
+      "id": 938,
+      "manufacturer": "סיאט",
+      "model": "לאון"
+    },
+    {
+      "id": 939,
+      "manufacturer": "סיאט",
+      "model": "מי / MII"
+    },
+    {
+      "id": 940,
+      "manufacturer": "סיאט",
+      "model": "מלגה"
+    },
+    {
+      "id": 941,
+      "manufacturer": "סיאט",
+      "model": "קורדובה"
+    },
+    {
+      "id": 942,
+      "manufacturer": "סיאט",
+      "model": "אינקה"
+    },
+    {
+      "id": 943,
+      "manufacturer": "סיאט",
+      "model": "מרבלה"
+    },
+    {
+      "id": 944,
+      "manufacturer": "סיאט",
+      "model": "קופרה אטקה"
+    },
+    {
+      "id": 945,
+      "manufacturer": "סיאט",
+      "model": "רונדה"
+    },
+    {
+      "id": 946,
+      "manufacturer": "סיטרואן",
+      "model": "AX"
+    },
+    {
+      "id": 947,
+      "manufacturer": "סיטרואן",
+      "model": "C אליזה"
+    },
+    {
+      "id": 948,
+      "manufacturer": "סיטרואן",
+      "model": "C קרוסר"
+    },
+    {
+      "id": 949,
+      "manufacturer": "סיטרואן",
+      "model": "C-ZERO"
+    },
+    {
+      "id": 950,
+      "manufacturer": "סיטרואן",
+      "model": "C1"
+    },
+    {
+      "id": 951,
+      "manufacturer": "סיטרואן",
+      "model": "C2"
+    },
+    {
+      "id": 952,
+      "manufacturer": "סיטרואן",
+      "model": "C3"
+    },
+    {
+      "id": 953,
+      "manufacturer": "סיטרואן",
+      "model": "C3 איירקרוס"
+    },
+    {
+      "id": 954,
+      "manufacturer": "סיטרואן",
+      "model": "C3 פיקאסו"
+    },
+    {
+      "id": 955,
+      "manufacturer": "סיטרואן",
+      "model": "C4"
+    },
+    {
+      "id": 956,
+      "manufacturer": "סיטרואן",
+      "model": "C4 -X"
+    },
+    {
+      "id": 957,
+      "manufacturer": "סיטרואן",
+      "model": "C4 ספייסטורר"
+    },
+    {
+      "id": 958,
+      "manufacturer": "סיטרואן",
+      "model": "C4 פיקאסו"
+    },
+    {
+      "id": 959,
+      "manufacturer": "סיטרואן",
+      "model": "C4 קקטוס"
+    },
+    {
+      "id": 960,
+      "manufacturer": "סיטרואן",
+      "model": "C5"
+    },
+    {
+      "id": 961,
+      "manufacturer": "סיטרואן",
+      "model": "C5 איירקרוס"
+    },
+    {
+      "id": 962,
+      "manufacturer": "סיטרואן",
+      "model": "C6"
+    },
+    {
+      "id": 963,
+      "manufacturer": "סיטרואן",
+      "model": "C8"
+    },
+    {
+      "id": 964,
+      "manufacturer": "סיטרואן",
+      "model": "CX"
+    },
+    {
+      "id": 965,
+      "manufacturer": "סיטרואן",
+      "model": "DS3"
+    },
+    {
+      "id": 966,
+      "manufacturer": "סיטרואן",
+      "model": "DS3 קבריולט"
+    },
+    {
+      "id": 967,
+      "manufacturer": "סיטרואן",
+      "model": "DS4"
+    },
+    {
+      "id": 968,
+      "manufacturer": "סיטרואן",
+      "model": "DS5"
+    },
+    {
+      "id": 969,
+      "manufacturer": "סיטרואן",
+      "model": "E-C4"
+    },
+    {
+      "id": 970,
+      "manufacturer": "סיטרואן",
+      "model": "XM"
+    },
+    {
+      "id": 971,
+      "manufacturer": "סיטרואן",
+      "model": "ZX"
+    },
+    {
+      "id": 972,
+      "manufacturer": "סיטרואן",
+      "model": "סקסו"
+    },
+    {
+      "id": 973,
+      "manufacturer": "סיטרואן",
+      "model": "קסנטיה"
+    },
+    {
+      "id": 974,
+      "manufacturer": "סיטרואן",
+      "model": "קסרה"
+    },
+    {
+      "id": 975,
+      "manufacturer": "סיטרואן",
+      "model": "קסרה פיקאסו"
+    },
+    {
+      "id": 976,
+      "manufacturer": "סיטרואן",
+      "model": "BX"
+    },
+    {
+      "id": 977,
+      "manufacturer": "סיטרואן",
+      "model": "C15"
+    },
+    {
+      "id": 978,
+      "manufacturer": "סיטרואן",
+      "model": "C15"
+    },
+    {
+      "id": 979,
+      "manufacturer": "סיטרואן",
+      "model": "ברלינגו דור 1 (עד 2012)"
+    },
+    {
+      "id": 980,
+      "manufacturer": "סיטרואן",
+      "model": "ברלינגו דור 2 (2008-2019)"
+    },
+    {
+      "id": 981,
+      "manufacturer": "סיטרואן",
+      "model": "ברלינגו דור 3 (2018 ואילך)"
+    },
+    {
+      "id": 982,
+      "manufacturer": "סיטרואן",
+      "model": "ברלינגו חשמלית"
+    },
+    {
+      "id": 987,
+      "manufacturer": "סיטרואן",
+      "model": "ויזה"
+    },
+    {
+      "id": 988,
+      "manufacturer": "סיטרואן",
+      "model": "נמו / Nemo"
+    },
+    {
+      "id": 989,
+      "manufacturer": "סיטרואן",
+      "model": "סמארט"
+    },
+    {
+      "id": 990,
+      "manufacturer": "סיטרואן",
+      "model": "#1"
+    },
+    {
+      "id": 991,
+      "manufacturer": "סיטרואן",
+      "model": "#3"
+    },
+    {
+      "id": 992,
+      "manufacturer": "סיטרואן",
+      "model": "בראבוס"
+    },
+    {
+      "id": 993,
+      "manufacturer": "סיטרואן",
+      "model": "פולס"
+    },
+    {
+      "id": 994,
+      "manufacturer": "סיטרואן",
+      "model": "פורטו"
+    },
+    {
+      "id": 995,
+      "manufacturer": "סיטרואן",
+      "model": "פורפור"
+    },
+    {
+      "id": 996,
+      "manufacturer": "סיטרואן",
+      "model": "פיור"
+    },
+    {
+      "id": 997,
+      "manufacturer": "סיטרואן",
+      "model": "פשיין"
+    },
+    {
+      "id": 998,
+      "manufacturer": "סיטרואן",
+      "model": "רודסטר"
+    },
+    {
+      "id": 999,
+      "manufacturer": "סקודה",
+      "model": "אוקטביה"
+    },
+    {
+      "id": 1000,
+      "manufacturer": "סקודה",
+      "model": "אוקטביה RS"
+    },
+    {
+      "id": 1001,
+      "manufacturer": "סקודה",
+      "model": "אוקטביה ספייס"
+    },
+    {
+      "id": 1002,
+      "manufacturer": "סקודה",
+      "model": "אניאק"
+    },
+    {
+      "id": 1003,
+      "manufacturer": "סקודה",
+      "model": "ייטי / Yeti"
+    },
+    {
+      "id": 1004,
+      "manufacturer": "סקודה",
+      "model": "ניו פליסיה"
+    },
+    {
+      "id": 1005,
+      "manufacturer": "סקודה",
+      "model": "סופרב (2019 ואילך)"
+    },
+    {
+      "id": 1006,
+      "manufacturer": "סקודה",
+      "model": "סופרב (עד 2019)"
+    },
+    {
+      "id": 1007,
+      "manufacturer": "סקודה",
+      "model": "סיטיגו / Citigo"
+    },
+    {
+      "id": 1008,
+      "manufacturer": "סקודה",
+      "model": "סקאלה"
+    },
+    {
+      "id": 1009,
+      "manufacturer": "סקודה",
+      "model": "פאביה"
+    },
+    {
+      "id": 1010,
+      "manufacturer": "סקודה",
+      "model": "פאביה ספייס"
+    },
+    {
+      "id": 1011,
+      "manufacturer": "סקודה",
+      "model": "פורמן"
+    },
+    {
+      "id": 1012,
+      "manufacturer": "סקודה",
+      "model": "פיבוריט"
+    },
+    {
+      "id": 1013,
+      "manufacturer": "סקודה",
+      "model": "פליסיה"
+    },
+    {
+      "id": 1014,
+      "manufacturer": "סקודה",
+      "model": "קאמיק"
+    },
+    {
+      "id": 1015,
+      "manufacturer": "סקודה",
+      "model": "קארוק"
+    },
+    {
+      "id": 1016,
+      "manufacturer": "סקודה",
+      "model": "קודיאק"
+    },
+    {
+      "id": 1017,
+      "manufacturer": "סקודה",
+      "model": "ראפיד"
+    },
+    {
+      "id": 1018,
+      "manufacturer": "סקודה",
+      "model": "ראפיד ספייסבק"
+    },
+    {
+      "id": 1019,
+      "manufacturer": "סקודה",
+      "model": "רומסטר"
+    },
+    {
+      "id": 1020,
+      "manufacturer": "סקודה",
+      "model": "אניאק קופה IV"
+    },
+    {
+      "id": 1021,
+      "manufacturer": "סקודה",
+      "model": "ואן"
+    },
+    {
+      "id": 1022,
+      "manufacturer": "סקודה",
+      "model": "טנדר"
+    },
+    {
+      "id": 1023,
+      "manufacturer": "סקודה",
+      "model": "פורמן"
+    },
+    {
+      "id": 1024,
+      "manufacturer": "סנטרו",
+      "model": "מטרו פתוח"
+    },
+    {
+      "id": 1025,
+      "manufacturer": "סנטרו",
+      "model": "LOGISTAR 100"
+    },
+    {
+      "id": 1026,
+      "manufacturer": "סנטרו",
+      "model": "LOGISTAR 200"
+    },
+    {
+      "id": 1027,
+      "manufacturer": "סרס / SERES",
+      "model": "SERES 3"
+    },
+    {
+      "id": 1028,
+      "manufacturer": "סרס / SERES",
+      "model": "SERES 5"
+    },
+    {
+      "id": 1029,
+      "manufacturer": "סקייוול",
+      "model": "ET5"
+    },
+    {
+      "id": 1030,
+      "manufacturer": "פולקסווגן",
+      "model": "ID.5"
+    },
+    {
+      "id": 1031,
+      "manufacturer": "פולקסווגן",
+      "model": "ID3"
+    },
+    {
+      "id": 1032,
+      "manufacturer": "פולקסווגן",
+      "model": "ID4"
+    },
+    {
+      "id": 1033,
+      "manufacturer": "פולקסווגן",
+      "model": "ID6 CROZZ"
+    },
+    {
+      "id": 1034,
+      "manufacturer": "פולקסווגן",
+      "model": "T- Roc"
+    },
+    {
+      "id": 1035,
+      "manufacturer": "פולקסווגן",
+      "model": "T-Cross"
+    },
+    {
+      "id": 1036,
+      "manufacturer": "פולקסווגן",
+      "model": "אטלס"
+    },
+    {
+      "id": 1037,
+      "manufacturer": "פולקסווגן",
+      "model": "איוס"
+    },
+    {
+      "id": 1038,
+      "manufacturer": "פולקסווגן",
+      "model": "אפ / UP"
+    },
+    {
+      "id": 1039,
+      "manufacturer": "פולקסווגן",
+      "model": "ארטאון"
+    },
+    {
+      "id": 1040,
+      "manufacturer": "פולקסווגן",
+      "model": "בורה"
+    },
+    {
+      "id": 1042,
+      "manufacturer": "פולקסווגן",
+      "model": "גולף"
+    },
+    {
+      "id": 1043,
+      "manufacturer": "פולקסווגן",
+      "model": "גולף GTE"
+    },
+    {
+      "id": 1044,
+      "manufacturer": "פולקסווגן",
+      "model": "גולף GTI"
+    },
+    {
+      "id": 1045,
+      "manufacturer": "פולקסווגן",
+      "model": "גולף R"
+    },
+    {
+      "id": 1046,
+      "manufacturer": "פולקסווגן",
+      "model": "גולף ספורטוואן"
+    },
+    {
+      "id": 1047,
+      "manufacturer": "פולקסווגן",
+      "model": "גולף פלוס"
+    },
+    {
+      "id": 1048,
+      "manufacturer": "פולקסווגן",
+      "model": "ונטו"
+    },
+    {
+      "id": 1049,
+      "manufacturer": "פולקסווגן",
+      "model": "חיפושית"
+    },
+    {
+      "id": 1050,
+      "manufacturer": "פולקסווגן",
+      "model": "חיפושית החדשה"
+    },
+    {
+      "id": 1051,
+      "manufacturer": "פולקסווגן",
+      "model": "טוארג"
+    },
+    {
+      "id": 1052,
+      "manufacturer": "פולקסווגן",
+      "model": "טוראן"
+    },
+    {
+      "id": 1053,
+      "manufacturer": "פולקסווגן",
+      "model": "טיגואן"
+    },
+    {
+      "id": 1054,
+      "manufacturer": "פולקסווגן",
+      "model": "פאסאט"
+    },
+    {
+      "id": 1055,
+      "manufacturer": "פולקסווגן",
+      "model": "פאסאט CC"
+    },
+    {
+      "id": 1056,
+      "manufacturer": "פולקסווגן",
+      "model": "פולו"
+    },
+    {
+      "id": 1057,
+      "manufacturer": "פולקסווגן",
+      "model": "פולו GTI"
+    },
+    {
+      "id": 1058,
+      "manufacturer": "פולקסווגן",
+      "model": "פולו קלאסיק"
+    },
+    {
+      "id": 1059,
+      "manufacturer": "פולקסווגן",
+      "model": "פייטון"
+    },
+    {
+      "id": 1060,
+      "manufacturer": "פולקסווגן",
+      "model": "קוראדו"
+    },
+    {
+      "id": 1061,
+      "manufacturer": "פולקסווגן",
+      "model": "שירוקו"
+    },
+    {
+      "id": 1062,
+      "manufacturer": "פולקסווגן",
+      "model": "ID. Buzz"
+    },
+    {
+      "id": 1063,
+      "manufacturer": "פולקסווגן",
+      "model": "LT"
+    },
+    {
+      "id": 1064,
+      "manufacturer": "פולקסווגן",
+      "model": "LT 35"
+    },
+    {
+      "id": 1065,
+      "manufacturer": "פולקסווגן",
+      "model": "אמארוק"
+    },
+    {
+      "id": 1066,
+      "manufacturer": "פולקסווגן",
+      "model": "דרבי"
+    },
+    {
+      "id": 1067,
+      "manufacturer": "פולקסווגן",
+      "model": "טי קרוס**"
+    },
+    {
+      "id": 1068,
+      "manufacturer": "פולקסווגן",
+      "model": "טרנספורטר טנדר"
+    },
+    {
+      "id": 1069,
+      "manufacturer": "פולקסווגן",
+      "model": "טרנספורטר לא פעיל"
+    },
+    {
+      "id": 1070,
+      "manufacturer": "פולקסווגן",
+      "model": "טרנספורטר מסחרי/נוסעים"
+    },
+    {
+      "id": 1071,
+      "manufacturer": "פולקסווגן",
+      "model": "מולטיוואן"
+    },
+    {
+      "id": 1072,
+      "manufacturer": "פולקסווגן",
+      "model": "קאדי"
+    },
+    {
+      "id": 1073,
+      "manufacturer": "פולקסווגן",
+      "model": "קאדי לייף"
+    },
+    {
+      "id": 1074,
+      "manufacturer": "פולקסווגן",
+      "model": "קאדי מקסי"
+    },
+    {
+      "id": 1075,
+      "manufacturer": "פולקסווגן",
+      "model": "קליפורניה"
+    },
+    {
+      "id": 1076,
+      "manufacturer": "פולקסווגן",
+      "model": "קראוול"
+    },
+    {
+      "id": 1077,
+      "manufacturer": "פולקסווגן",
+      "model": "קראפטר"
+    },
+    {
+      "id": 1078,
+      "manufacturer": "פולקסווגן",
+      "model": "שאטל"
+    },
+    {
+      "id": 1079,
+      "manufacturer": "פונטיאק",
+      "model": "בונוביל"
+    },
+    {
+      "id": 1080,
+      "manufacturer": "פונטיאק",
+      "model": "גרנד אם"
+    },
+    {
+      "id": 1081,
+      "manufacturer": "פונטיאק",
+      "model": "גרנד פרי"
+    },
+    {
+      "id": 1082,
+      "manufacturer": "פונטיאק",
+      "model": "טמפסט"
+    },
+    {
+      "id": 1083,
+      "manufacturer": "פונטיאק",
+      "model": "טרנס אם"
+    },
+    {
+      "id": 1084,
+      "manufacturer": "פונטיאק",
+      "model": "סולסטיס"
+    },
+    {
+      "id": 1085,
+      "manufacturer": "פונטיאק",
+      "model": "סנברד"
+    },
+    {
+      "id": 1086,
+      "manufacturer": "פונטיאק",
+      "model": "פיירבירד"
+    },
+    {
+      "id": 1087,
+      "manufacturer": "פונטיאק",
+      "model": "G-6"
+    },
+    {
+      "id": 1088,
+      "manufacturer": "פונטיאק",
+      "model": "LE 6000"
+    },
+    {
+      "id": 1089,
+      "manufacturer": "פונטיאק",
+      "model": "אזטק"
+    },
+    {
+      "id": 1090,
+      "manufacturer": "פורד",
+      "model": "S-מקס"
+    },
+    {
+      "id": 1092,
+      "manufacturer": "פורד",
+      "model": "אסקורט"
+    },
+    {
+      "id": 1093,
+      "manufacturer": "פורד",
+      "model": "אסקייפ"
+    },
+    {
+      "id": 1094,
+      "manufacturer": "פורד",
+      "model": "אקספדישן"
+    },
+    {
+      "id": 1095,
+      "manufacturer": "פורד",
+      "model": "אקספלורר"
+    },
+    {
+      "id": 1096,
+      "manufacturer": "פורד",
+      "model": "ברונקו"
+    },
+    {
+      "id": 1097,
+      "manufacturer": "פורד",
+      "model": "גלאקסי"
+    },
+    {
+      "id": 1098,
+      "manufacturer": "פורד",
+      "model": "טאורוס"
+    },
+    {
+      "id": 1099,
+      "manufacturer": "פורד",
+      "model": "טרייסר"
+    },
+    {
+      "id": 1100,
+      "manufacturer": "פורד",
+      "model": "לינקולן-MKC"
+    },
+    {
+      "id": 1101,
+      "manufacturer": "פורד",
+      "model": "לינקולן-MKS"
+    },
+    {
+      "id": 1102,
+      "manufacturer": "פורד",
+      "model": "לינקולן-MKT"
+    },
+    {
+      "id": 1103,
+      "manufacturer": "פורד",
+      "model": "לינקולן-MKZ"
+    },
+    {
+      "id": 1104,
+      "manufacturer": "פורד",
+      "model": "מונדאו"
+    },
+    {
+      "id": 1105,
+      "manufacturer": "פורד",
+      "model": "מוסטנג"
+    },
+    {
+      "id": 1106,
+      "manufacturer": "פורד",
+      "model": "מוסטנג MACH E"
+    },
+    {
+      "id": 1107,
+      "manufacturer": "פורד",
+      "model": "סיירה"
+    },
+    {
+      "id": 1108,
+      "manufacturer": "פורד",
+      "model": "סקורפיו"
+    },
+    {
+      "id": 1109,
+      "manufacturer": "פורד",
+      "model": "פומה"
+    },
+    {
+      "id": 1110,
+      "manufacturer": "פורד",
+      "model": "פוקוס"
+    },
+    {
+      "id": 1111,
+      "manufacturer": "פורד",
+      "model": "פיאסטה"
+    },
+    {
+      "id": 1113,
+      "manufacturer": "פורד",
+      "model": "קוגה"
+    },
+    {
+      "id": 1114,
+      "manufacturer": "פורד",
+      "model": "קורטינה"
+    },
+    {
+      "id": 1115,
+      "manufacturer": "פורד",
+      "model": "Excursion"
+    },
+    {
+      "id": 1116,
+      "manufacturer": "פורד",
+      "model": "F-150"
+    },
+    {
+      "id": 1117,
+      "manufacturer": "פורד",
+      "model": "F-150 לייטנינג"
+    },
+    {
+      "id": 1118,
+      "manufacturer": "פורד",
+      "model": "F-250"
+    },
+    {
+      "id": 1119,
+      "manufacturer": "פורד",
+      "model": "F-350"
+    },
+    {
+      "id": 1120,
+      "manufacturer": "פורד",
+      "model": "GT"
+    },
+    {
+      "id": 1121,
+      "manufacturer": "פורד",
+      "model": "אוריון"
+    },
+    {
+      "id": 1122,
+      "manufacturer": "פורד",
+      "model": "אירוסטאר ארוך"
+    },
+    {
+      "id": 1123,
+      "manufacturer": "פורד",
+      "model": "אירוסטאר קצר"
+    },
+    {
+      "id": 1124,
+      "manufacturer": "פורד",
+      "model": "אקונוליין ארוך"
+    },
+    {
+      "id": 1125,
+      "manufacturer": "פורד",
+      "model": "אקונוליין קצר"
+    },
+    {
+      "id": 1126,
+      "manufacturer": "פורד",
+      "model": "ברנדה"
+    },
+    {
+      "id": 1127,
+      "manufacturer": "פורד",
+      "model": "וינדסטאר"
+    },
+    {
+      "id": 1128,
+      "manufacturer": "פורד",
+      "model": "טורנאו קונקט ארוך"
+    },
+    {
+      "id": 1129,
+      "manufacturer": "פורד",
+      "model": "טורנאו קונקט קצר"
+    },
+    {
+      "id": 1130,
+      "manufacturer": "פורד",
+      "model": "טנדרבירד"
+    },
+    {
+      "id": 1131,
+      "manufacturer": "פורד",
+      "model": "טרנזיט"
+    },
+    {
+      "id": 1132,
+      "manufacturer": "פורד",
+      "model": "טרנזיט קוסטום"
+    },
+    {
+      "id": 1133,
+      "manufacturer": "פורד",
+      "model": "מאבריק"
+    },
+    {
+      "id": 1134,
+      "manufacturer": "פורד",
+      "model": "מרקורי"
+    },
+    {
+      "id": 1135,
+      "manufacturer": "פורד",
+      "model": "קונקט"
+    },
+    {
+      "id": 1136,
+      "manufacturer": "פורד",
+      "model": "קורייר"
+    },
+    {
+      "id": 1138,
+      "manufacturer": "פורשה",
+      "model": "718 בוקסטר"
+    },
+    {
+      "id": 1139,
+      "manufacturer": "פורשה",
+      "model": "718 קאיימן"
+    },
+    {
+      "id": 1140,
+      "manufacturer": "פורשה",
+      "model": "911 - Sport Classic"
+    },
+    {
+      "id": 1141,
+      "manufacturer": "פורשה",
+      "model": "911 GT2 RS"
+    },
+    {
+      "id": 1142,
+      "manufacturer": "פורשה",
+      "model": "911 GT3"
+    },
+    {
+      "id": 1143,
+      "manufacturer": "פורשה",
+      "model": "911 GTS"
+    },
+    {
+      "id": 1144,
+      "manufacturer": "פורשה",
+      "model": "911 טארגה"
+    },
+    {
+      "id": 1145,
+      "manufacturer": "פורשה",
+      "model": "911 טורבו"
+    },
+    {
+      "id": 1146,
+      "manufacturer": "פורשה",
+      "model": "911 ספידסטר"
+    },
+    {
+      "id": 1147,
+      "manufacturer": "פורשה",
+      "model": "911 קאררה"
+    },
+    {
+      "id": 1148,
+      "manufacturer": "פורשה",
+      "model": "בוקסטר S986"
+    },
+    {
+      "id": 1149,
+      "manufacturer": "פורשה",
+      "model": "טייקן"
+    },
+    {
+      "id": 1150,
+      "manufacturer": "פורשה",
+      "model": "מקאן"
+    },
+    {
+      "id": 1151,
+      "manufacturer": "פורשה",
+      "model": "מקאן GTS"
+    },
+    {
+      "id": 1152,
+      "manufacturer": "פורשה",
+      "model": "פאנאמרה"
+    },
+    {
+      "id": 1153,
+      "manufacturer": "פורשה",
+      "model": "קאיין"
+    },
+    {
+      "id": 1154,
+      "manufacturer": "פורשה",
+      "model": "קאיין טורבו"
+    },
+    {
+      "id": 1155,
+      "manufacturer": "פורשה",
+      "model": "בוקסר S981"
+    },
+    {
+      "id": 1156,
+      "manufacturer": "פורשה",
+      "model": "בוקסר S987"
+    },
+    {
+      "id": 1157,
+      "manufacturer": "פיאט",
+      "model": "127"
+    },
+    {
+      "id": 1158,
+      "manufacturer": "פיאט",
+      "model": "131"
+    },
+    {
+      "id": 1159,
+      "manufacturer": "פיאט",
+      "model": "132"
+    },
+    {
+      "id": 1160,
+      "manufacturer": "פיאט",
+      "model": "500"
+    },
+    {
+      "id": 1161,
+      "manufacturer": "פיאט",
+      "model": "500C"
+    },
+    {
+      "id": 1162,
+      "manufacturer": "פיאט",
+      "model": "500L"
+    },
+    {
+      "id": 1163,
+      "manufacturer": "פיאט",
+      "model": "500X"
+    },
+    {
+      "id": 1164,
+      "manufacturer": "פיאט",
+      "model": "אוליזה"
+    },
+    {
+      "id": 1165,
+      "manufacturer": "פיאט",
+      "model": "אונו"
+    },
+    {
+      "id": 1166,
+      "manufacturer": "פיאט",
+      "model": "אונו סיליקטה"
+    },
+    {
+      "id": 1167,
+      "manufacturer": "פיאט",
+      "model": "אלבאה"
+    },
+    {
+      "id": 1168,
+      "manufacturer": "פיאט",
+      "model": "בראבה"
+    },
+    {
+      "id": 1169,
+      "manufacturer": "פיאט",
+      "model": "בראבו"
+    },
+    {
+      "id": 1170,
+      "manufacturer": "פיאט",
+      "model": "טיפו"
+    },
+    {
+      "id": 1171,
+      "manufacturer": "פיאט",
+      "model": "טמפרה"
+    },
+    {
+      "id": 1172,
+      "manufacturer": "פיאט",
+      "model": "כרומה"
+    },
+    {
+      "id": 1173,
+      "manufacturer": "פיאט",
+      "model": "לינאה"
+    },
+    {
+      "id": 1174,
+      "manufacturer": "פיאט",
+      "model": "מולטיפלה"
+    },
+    {
+      "id": 1175,
+      "manufacturer": "פיאט",
+      "model": "מריאה"
+    },
+    {
+      "id": 1177,
+      "manufacturer": "פיאט",
+      "model": "פונטו (דור I)"
+    },
+    {
+      "id": 1178,
+      "manufacturer": "פיאט",
+      "model": "פונטו איבו (דור III מתיחת פנים)"
+    },
+    {
+      "id": 1179,
+      "manufacturer": "פיאט",
+      "model": "פונטו גרנדה (דור III)"
+    },
+    {
+      "id": 1180,
+      "manufacturer": "פיאט",
+      "model": "פונטו ספייס (דור II)"
+    },
+    {
+      "id": 1181,
+      "manufacturer": "פיאט",
+      "model": "פנדה"
+    },
+    {
+      "id": 1182,
+      "manufacturer": "פיאט",
+      "model": "קופה"
+    },
+    {
+      "id": 1183,
+      "manufacturer": "פיאט",
+      "model": "דובלו"
+    },
+    {
+      "id": 1184,
+      "manufacturer": "פיאט",
+      "model": "דונה"
+    },
+    {
+      "id": 1185,
+      "manufacturer": "פיאט",
+      "model": "דוקאטו ארוך"
+    },
+    {
+      "id": 1186,
+      "manufacturer": "פיאט",
+      "model": "דוקאטו הרקולס"
+    },
+    {
+      "id": 1187,
+      "manufacturer": "פיאט",
+      "model": "דוקאטו קצר/בינוני"
+    },
+    {
+      "id": 1188,
+      "manufacturer": "פיאט",
+      "model": "לידו"
+    },
+    {
+      "id": 1189,
+      "manufacturer": "פיאט",
+      "model": "סקודו"
+    },
+    {
+      "id": 1190,
+      "manufacturer": "פיאט",
+      "model": "סקודו"
+    },
+    {
+      "id": 1191,
+      "manufacturer": "פיאט",
+      "model": "פולבק"
+    },
+    {
+      "id": 1192,
+      "manufacturer": "פיאט",
+      "model": "פיורינו"
+    },
+    {
+      "id": 1193,
+      "manufacturer": "פיאט",
+      "model": "קובו / QUBO"
+    },
+    {
+      "id": 1194,
+      "manufacturer": "פיאט",
+      "model": "רגאטה"
+    },
+    {
+      "id": 1195,
+      "manufacturer": "פיאט",
+      "model": "ריטמו"
+    },
+    {
+      "id": 1245,
+      "manufacturer": "פורתינג / FORTHING",
+      "model": "FRIDAY EV"
+    },
+    {
+      "id": 1246,
+      "manufacturer": "קאדילק",
+      "model": "ATS"
+    },
+    {
+      "id": 1247,
+      "manufacturer": "קאדילק",
+      "model": "CT5"
+    },
+    {
+      "id": 1248,
+      "manufacturer": "קאדילק",
+      "model": "CT6"
+    },
+    {
+      "id": 1249,
+      "manufacturer": "קאדילק",
+      "model": "CTS"
+    },
+    {
+      "id": 1250,
+      "manufacturer": "קאדילק",
+      "model": "DTS"
+    },
+    {
+      "id": 1251,
+      "manufacturer": "קאדילק",
+      "model": "SRX"
+    },
+    {
+      "id": 1252,
+      "manufacturer": "קאדילק",
+      "model": "STS"
+    },
+    {
+      "id": 1253,
+      "manufacturer": "קאדילק",
+      "model": "XLR"
+    },
+    {
+      "id": 1254,
+      "manufacturer": "קאדילק",
+      "model": "XT4"
+    },
+    {
+      "id": 1255,
+      "manufacturer": "קאדילק",
+      "model": "XT5"
+    },
+    {
+      "id": 1256,
+      "manufacturer": "קאדילק",
+      "model": "XT6"
+    },
+    {
+      "id": 1257,
+      "manufacturer": "קאדילק",
+      "model": "XTS"
+    },
+    {
+      "id": 1258,
+      "manufacturer": "קאדילק",
+      "model": "אסקלייד"
+    },
+    {
+      "id": 1259,
+      "manufacturer": "קאדילק",
+      "model": "סוויל"
+    },
+    {
+      "id": 1260,
+      "manufacturer": "פרארי",
+      "model": "458"
+    },
+    {
+      "id": 1261,
+      "manufacturer": "פרארי",
+      "model": "488 GTB"
+    },
+    {
+      "id": 1262,
+      "manufacturer": "פרארי",
+      "model": "488 ספיידר"
+    },
+    {
+      "id": 1263,
+      "manufacturer": "פרארי",
+      "model": "488 פיסטה"
+    },
+    {
+      "id": 1264,
+      "manufacturer": "פרארי",
+      "model": "575 מרנלו"
+    },
+    {
+      "id": 1265,
+      "manufacturer": "פרארי",
+      "model": "812 סופרפאסט"
+    },
+    {
+      "id": 1266,
+      "manufacturer": "פרארי",
+      "model": "F12 ברלינטה"
+    },
+    {
+      "id": 1267,
+      "manufacturer": "פרארי",
+      "model": "F8 טריבוטו"
+    },
+    {
+      "id": 1268,
+      "manufacturer": "פרארי",
+      "model": "FF"
+    },
+    {
+      "id": 1269,
+      "manufacturer": "פרארי",
+      "model": "GTB 296"
+    },
+    {
+      "id": 1270,
+      "manufacturer": "פרארי",
+      "model": "GTC4Lusso"
+    },
+    {
+      "id": 1271,
+      "manufacturer": "פרארי",
+      "model": "פורוסאנגווה"
+    },
+    {
+      "id": 1272,
+      "manufacturer": "פרארי",
+      "model": "פורטופינו"
+    },
+    {
+      "id": 1273,
+      "manufacturer": "פרארי",
+      "model": "קליפורניה"
+    },
+    {
+      "id": 1274,
+      "manufacturer": "פרארי",
+      "model": "רומא"
+    },
+    {
+      "id": 1279,
+      "manufacturer": "קיה",
+      "model": "EV6"
+    },
+    {
+      "id": 1280,
+      "manufacturer": "קיה",
+      "model": "EV9"
+    },
+    {
+      "id": 1281,
+      "manufacturer": "קיה",
+      "model": "K900"
+    },
+    {
+      "id": 1282,
+      "manufacturer": "קיה",
+      "model": "XCEED"
+    },
+    {
+      "id": 1283,
+      "manufacturer": "קיה",
+      "model": "אופטימה / Optima"
+    },
+    {
+      "id": 1284,
+      "manufacturer": "קיה",
+      "model": "אופירוס"
+    },
+    {
+      "id": 1286,
+      "manufacturer": "קיה",
+      "model": "טלורייד"
+    },
+    {
+      "id": 1287,
+      "manufacturer": "קיה",
+      "model": "לאו"
+    },
+    {
+      "id": 1289,
+      "manufacturer": "קיה",
+      "model": "מנטור"
+    },
+    {
+      "id": 1290,
+      "manufacturer": "קיה",
+      "model": "נירו EV"
+    },
+    {
+      "id": 1291,
+      "manufacturer": "קיה",
+      "model": "נירו PHEV"
+    },
+    {
+      "id": 1292,
+      "manufacturer": "קיה",
+      "model": "נירו הייבריד"
+    },
+    {
+      "id": 1293,
+      "manufacturer": "קיה",
+      "model": "נירו פלוס"
+    },
+    {
+      "id": 1294,
+      "manufacturer": "קיה",
+      "model": "סול"
+    },
+    {
+      "id": 1295,
+      "manufacturer": "קיה",
+      "model": "סורנטו"
+    },
+    {
+      "id": 1296,
+      "manufacturer": "קיה",
+      "model": "סטוניק"
+    },
+    {
+      "id": 1297,
+      "manufacturer": "קיה",
+      "model": "סטינגר"
+    },
+    {
+      "id": 1298,
+      "manufacturer": "קיה",
+      "model": "סיד / CEED"
+    },
+    {
+      "id": 1299,
+      "manufacturer": "קיה",
+      "model": "סלטוס"
+    },
+    {
+      "id": 1301,
+      "manufacturer": "קיה",
+      "model": "ספיה"
+    },
+    {
+      "id": 1302,
+      "manufacturer": "קיה",
+      "model": "סראטו"
+    },
+    {
+      "id": 1303,
+      "manufacturer": "קיה",
+      "model": "פורטה"
+    },
+    {
+      "id": 1304,
+      "manufacturer": "קיה",
+      "model": "פיקנטו"
+    },
+    {
+      "id": 1305,
+      "manufacturer": "קיה",
+      "model": "פרייד"
+    },
+    {
+      "id": 1306,
+      "manufacturer": "קיה",
+      "model": "קארנס"
+    },
+    {
+      "id": 1307,
+      "manufacturer": "קיה",
+      "model": "קדנזה"
+    },
+    {
+      "id": 1308,
+      "manufacturer": "קיה",
+      "model": "קלארוס"
+    },
+    {
+      "id": 1309,
+      "manufacturer": "קיה",
+      "model": "קרניבל"
+    },
+    {
+      "id": 1310,
+      "manufacturer": "קיה",
+      "model": "ריו"
+    },
+    {
+      "id": 1311,
+      "manufacturer": "קיה",
+      "model": "שומה"
+    },
+    {
+      "id": 1312,
+      "manufacturer": "קיה",
+      "model": "K2500"
+    },
+    {
+      "id": 1313,
+      "manufacturer": "קיה",
+      "model": "בורנגו"
+    },
+    {
+      "id": 1314,
+      "manufacturer": "קיה",
+      "model": "בסטה"
+    },
+    {
+      "id": 1315,
+      "manufacturer": "קיה",
+      "model": "סופרטראק"
+    },
+    {
+      "id": 1316,
+      "manufacturer": "קיה",
+      "model": "סרס"
+    },
+    {
+      "id": 1318,
+      "manufacturer": "קיה",
+      "model": "קריאטו"
+    },
+    {
+      "id": 1319,
+      "manufacturer": "קרייזלר",
+      "model": "300C"
+    },
+    {
+      "id": 1320,
+      "manufacturer": "קרייזלר",
+      "model": "300C SRT"
+    },
+    {
+      "id": 1321,
+      "manufacturer": "קרייזלר",
+      "model": "300M"
+    },
+    {
+      "id": 1322,
+      "manufacturer": "קרייזלר",
+      "model": "PT קרוזר"
+    },
+    {
+      "id": 1325,
+      "manufacturer": "קרייזלר",
+      "model": "ויזן"
+    },
+    {
+      "id": 1326,
+      "manufacturer": "קרייזלר",
+      "model": "טאון קאנטרי"
+    },
+    {
+      "id": 1327,
+      "manufacturer": "קרייזלר",
+      "model": "נאון"
+    },
+    {
+      "id": 1328,
+      "manufacturer": "קרייזלר",
+      "model": "סברינג"
+    },
+    {
+      "id": 1329,
+      "manufacturer": "קרייזלר",
+      "model": "סטרטוס"
+    },
+    {
+      "id": 1330,
+      "manufacturer": "קרייזלר",
+      "model": "סרטוגה"
+    },
+    {
+      "id": 1331,
+      "manufacturer": "קרייזלר",
+      "model": "פסיפיקה"
+    },
+    {
+      "id": 1332,
+      "manufacturer": "קרייזלר",
+      "model": "קרוספייר"
+    },
+    {
+      "id": 1333,
+      "manufacturer": "קרייזלר",
+      "model": "200"
+    },
+    {
+      "id": 1334,
+      "manufacturer": "קרייזלר",
+      "model": "אמפריאל"
+    },
+    {
+      "id": 1335,
+      "manufacturer": "קרייזלר",
+      "model": "קאליבר"
+    },
+    {
+      "id": 1336,
+      "manufacturer": "קופרה",
+      "model": "אטקה"
+    },
+    {
+      "id": 1337,
+      "manufacturer": "קופרה",
+      "model": "בורן"
+    },
+    {
+      "id": 1338,
+      "manufacturer": "קופרה",
+      "model": "לאון"
+    },
+    {
+      "id": 1339,
+      "manufacturer": "קופרה",
+      "model": "פורמנטור"
+    },
+    {
+      "id": 1340,
+      "manufacturer": "קארמה/ Karma",
+      "model": "GS-6S"
+    },
+    {
+      "id": 1341,
+      "manufacturer": "רובר",
+      "model": "214"
+    },
+    {
+      "id": 1342,
+      "manufacturer": "רובר",
+      "model": "216"
+    },
+    {
+      "id": 1343,
+      "manufacturer": "רובר",
+      "model": "414"
+    },
+    {
+      "id": 1344,
+      "manufacturer": "רובר",
+      "model": "416"
+    },
+    {
+      "id": 1345,
+      "manufacturer": "רובר",
+      "model": "420"
+    },
+    {
+      "id": 1346,
+      "manufacturer": "רובר",
+      "model": "600"
+    },
+    {
+      "id": 1347,
+      "manufacturer": "רובר",
+      "model": "620"
+    },
+    {
+      "id": 1348,
+      "manufacturer": "רובר",
+      "model": "623"
+    },
+    {
+      "id": 1349,
+      "manufacturer": "רובר",
+      "model": "825"
+    },
+    {
+      "id": 1350,
+      "manufacturer": "רובר",
+      "model": "827"
+    },
+    {
+      "id": 1351,
+      "manufacturer": "רובר",
+      "model": "MG VVC"
+    },
+    {
+      "id": 1352,
+      "manufacturer": "רובר",
+      "model": "MG ZR"
+    },
+    {
+      "id": 1353,
+      "manufacturer": "רובר",
+      "model": "MG ZS"
+    },
+    {
+      "id": 1354,
+      "manufacturer": "רובר",
+      "model": "MG ZT"
+    },
+    {
+      "id": 1355,
+      "manufacturer": "רובר",
+      "model": "R25"
+    },
+    {
+      "id": 1356,
+      "manufacturer": "רובר",
+      "model": "R45"
+    },
+    {
+      "id": 1357,
+      "manufacturer": "רובר",
+      "model": "R75"
+    },
+    {
+      "id": 1358,
+      "manufacturer": "רובר",
+      "model": "MGF"
+    },
+    {
+      "id": 1359,
+      "manufacturer": "רנו",
+      "model": "11"
+    },
+    {
+      "id": 1360,
+      "manufacturer": "רנו",
+      "model": "19"
+    },
+    {
+      "id": 1361,
+      "manufacturer": "רנו",
+      "model": "21"
+    },
+    {
+      "id": 1362,
+      "manufacturer": "רנו",
+      "model": "9"
+    },
+    {
+      "id": 1363,
+      "manufacturer": "רנו",
+      "model": "אסטרל"
+    },
+    {
+      "id": 1364,
+      "manufacturer": "רנו",
+      "model": "אספאס"
+    },
+    {
+      "id": 1365,
+      "manufacturer": "רנו",
+      "model": "ארקנה"
+    },
+    {
+      "id": 1366,
+      "manufacturer": "רנו",
+      "model": "ארקנה הייבריד החדשה"
+    },
+    {
+      "id": 1367,
+      "manufacturer": "רנו",
+      "model": "גרנד סניק"
+    },
+    {
+      "id": 1368,
+      "manufacturer": "רנו",
+      "model": "וול-סאטיס"
+    },
+    {
+      "id": 1369,
+      "manufacturer": "רנו",
+      "model": "זואי"
+    },
+    {
+      "id": 1370,
+      "manufacturer": "רנו",
+      "model": "טווינגו"
+    },
+    {
+      "id": 1371,
+      "manufacturer": "רנו",
+      "model": "טליה"
+    },
+    {
+      "id": 1372,
+      "manufacturer": "רנו",
+      "model": "לגונה"
+    },
+    {
+      "id": 1373,
+      "manufacturer": "רנו",
+      "model": "לוגאן MCV"
+    },
+    {
+      "id": 1374,
+      "manufacturer": "רנו",
+      "model": "לטיטוד"
+    },
+    {
+      "id": 1375,
+      "manufacturer": "רנו",
+      "model": "מגאן E-Tech"
+    },
+    {
+      "id": 1376,
+      "manufacturer": "רנו",
+      "model": "מגאן אסטייט/ גראנד טור"
+    },
+    {
+      "id": 1377,
+      "manufacturer": "רנו",
+      "model": "מגאן גראנד קופה"
+    },
+    {
+      "id": 1378,
+      "manufacturer": "רנו",
+      "model": "מגאן דור 1 (1996-2004)"
+    },
+    {
+      "id": 1379,
+      "manufacturer": "רנו",
+      "model": "מגאן דור 2 (2004-2010)"
+    },
+    {
+      "id": 1380,
+      "manufacturer": "רנו",
+      "model": "מגאן דור 3 (2009-2017)"
+    },
+    {
+      "id": 1381,
+      "manufacturer": "רנו",
+      "model": "מגאן קופה / ספורט"
+    },
+    {
+      "id": 1382,
+      "manufacturer": "רנו",
+      "model": "סימבול"
+    },
+    {
+      "id": 1383,
+      "manufacturer": "רנו",
+      "model": "סנדרו"
+    },
+    {
+      "id": 1384,
+      "manufacturer": "רנו",
+      "model": "סניק דור 1 (1998-2004)"
+    },
+    {
+      "id": 1385,
+      "manufacturer": "רנו",
+      "model": "סניק דור 2 (2004-2009)"
+    },
+    {
+      "id": 1386,
+      "manufacturer": "רנו",
+      "model": "סניק דור 3 (2009-2014)"
+    },
+    {
+      "id": 1387,
+      "manufacturer": "רנו",
+      "model": "ספרן"
+    },
+    {
+      "id": 1388,
+      "manufacturer": "רנו",
+      "model": "פלואנס"
+    },
+    {
+      "id": 1389,
+      "manufacturer": "רנו",
+      "model": "פלואנס חשמלי"
+    },
+    {
+      "id": 1391,
+      "manufacturer": "רנו",
+      "model": "קוליאוס"
+    },
+    {
+      "id": 1392,
+      "manufacturer": "רנו",
+      "model": "קליאו B"
+    },
+    {
+      "id": 1393,
+      "manufacturer": "רנו",
+      "model": "קליאו B II"
+    },
+    {
+      "id": 1394,
+      "manufacturer": "רנו",
+      "model": "קליאו אסטייט"
+    },
+    {
+      "id": 1395,
+      "manufacturer": "רנו",
+      "model": "קליאו דור 1 (1992-1999)"
+    },
+    {
+      "id": 1396,
+      "manufacturer": "רנו",
+      "model": "קליאו דור 3 (2006-2014)"
+    },
+    {
+      "id": 1397,
+      "manufacturer": "רנו",
+      "model": "קליאו דור 4 (2013-2019)"
+    },
+    {
+      "id": 1398,
+      "manufacturer": "רנו",
+      "model": "קליאו דור 5 (2019 ואילך)"
+    },
+    {
+      "id": 1400,
+      "manufacturer": "רנו",
+      "model": "18"
+    },
+    {
+      "id": 1401,
+      "manufacturer": "רנו",
+      "model": "25"
+    },
+    {
+      "id": 1402,
+      "manufacturer": "רנו",
+      "model": "5"
+    },
+    {
+      "id": 1403,
+      "manufacturer": "רנו",
+      "model": "אקספרס"
+    },
+    {
+      "id": 1404,
+      "manufacturer": "רנו",
+      "model": "טראפיק ארוך"
+    },
+    {
+      "id": 1405,
+      "manufacturer": "רנו",
+      "model": "טראפיק קצר"
+    },
+    {
+      "id": 1406,
+      "manufacturer": "רנו",
+      "model": "מאסטר ארוך"
+    },
+    {
+      "id": 1407,
+      "manufacturer": "רנו",
+      "model": "מאסטר קצר/בינוני"
+    },
+    {
+      "id": 1408,
+      "manufacturer": "רנו",
+      "model": "קנגו החדשה"
+    },
+    {
+      "id": 1409,
+      "manufacturer": "רנו",
+      "model": "קנגו (עד 2009)"
+    },
+    {
+      "id": 1410,
+      "manufacturer": "שברולט",
+      "model": "אבאו"
+    },
+    {
+      "id": 1411,
+      "manufacturer": "שברולט",
+      "model": "אופטרה"
+    },
+    {
+      "id": 1412,
+      "manufacturer": "שברולט",
+      "model": "אורלנדו"
+    },
+    {
+      "id": 1413,
+      "manufacturer": "שברולט",
+      "model": "אימפלה"
+    },
+    {
+      "id": 1414,
+      "manufacturer": "שברולט",
+      "model": "אלרו"
+    },
+    {
+      "id": 1415,
+      "manufacturer": "שברולט",
+      "model": "אפיקה"
+    },
+    {
+      "id": 1416,
+      "manufacturer": "שברולט",
+      "model": "אפלנדר"
+    },
+    {
+      "id": 1417,
+      "manufacturer": "שברולט",
+      "model": "אקווינוקס"
+    },
+    {
+      "id": 1418,
+      "manufacturer": "שברולט",
+      "model": "בולט EV"
+    },
+    {
+      "id": 1419,
+      "manufacturer": "שברולט",
+      "model": "בלייזר"
+    },
+    {
+      "id": 1420,
+      "manufacturer": "שברולט",
+      "model": "בלייזר (2019 ואילך)"
+    },
+    {
+      "id": 1421,
+      "manufacturer": "שברולט",
+      "model": "ברטה"
+    },
+    {
+      "id": 1422,
+      "manufacturer": "שברולט",
+      "model": "וולט"
+    },
+    {
+      "id": 1423,
+      "manufacturer": "שברולט",
+      "model": "ויואנט"
+    },
+    {
+      "id": 1424,
+      "manufacturer": "שברולט",
+      "model": "טאהו / יוקון"
+    },
+    {
+      "id": 1425,
+      "manufacturer": "שברולט",
+      "model": "טראוורס"
+    },
+    {
+      "id": 1426,
+      "manufacturer": "שברולט",
+      "model": "טראקס"
+    },
+    {
+      "id": 1427,
+      "manufacturer": "שברולט",
+      "model": "טרייל בלייזר"
+    },
+    {
+      "id": 1428,
+      "manufacturer": "שברולט",
+      "model": "לומינה"
+    },
+    {
+      "id": 1429,
+      "manufacturer": "שברולט",
+      "model": "מאליבו"
+    },
+    {
+      "id": 1430,
+      "manufacturer": "שברולט",
+      "model": "מונטה קרלו"
+    },
+    {
+      "id": 1431,
+      "manufacturer": "שברולט",
+      "model": "סוברבן"
+    },
+    {
+      "id": 1432,
+      "manufacturer": "שברולט",
+      "model": "סוניק"
+    },
+    {
+      "id": 1433,
+      "manufacturer": "שברולט",
+      "model": "סילברדו EV"
+    },
+    {
+      "id": 1434,
+      "manufacturer": "שברולט",
+      "model": "סיליבריטי"
+    },
+    {
+      "id": 1435,
+      "manufacturer": "שברולט",
+      "model": "ספארק"
+    },
+    {
+      "id": 1436,
+      "manufacturer": "שברולט",
+      "model": "קאמארו"
+    },
+    {
+      "id": 1437,
+      "manufacturer": "שברולט",
+      "model": "קוואליר"
+    },
+    {
+      "id": 1438,
+      "manufacturer": "שברולט",
+      "model": "קורבט"
+    },
+    {
+      "id": 1439,
+      "manufacturer": "שברולט",
+      "model": "קורבט Z06"
+    },
+    {
+      "id": 1440,
+      "manufacturer": "שברולט",
+      "model": "קורסיקה"
+    },
+    {
+      "id": 1441,
+      "manufacturer": "שברולט",
+      "model": "קפטיבה"
+    },
+    {
+      "id": 1442,
+      "manufacturer": "שברולט",
+      "model": "קפריס"
+    },
+    {
+      "id": 1443,
+      "manufacturer": "שברולט",
+      "model": "קרוז"
+    },
+    {
+      "id": 1444,
+      "manufacturer": "שברולט",
+      "model": "קרוז החדשה"
+    },
+    {
+      "id": 1445,
+      "manufacturer": "שברולט",
+      "model": "SUT"
+    },
+    {
+      "id": 1446,
+      "manufacturer": "שברולט",
+      "model": "אסטרו"
+    },
+    {
+      "id": 1447,
+      "manufacturer": "שברולט",
+      "model": "טנדר"
+    },
+    {
+      "id": 1448,
+      "manufacturer": "שברולט",
+      "model": "נוואדה"
+    },
+    {
+      "id": 1449,
+      "manufacturer": "שברולט",
+      "model": "סוואנה ארוך"
+    },
+    {
+      "id": 1450,
+      "manufacturer": "שברולט",
+      "model": "סוואנה קצר"
+    },
+    {
+      "id": 1451,
+      "manufacturer": "שברולט",
+      "model": "סילברדו 2500"
+    },
+    {
+      "id": 1452,
+      "manufacturer": "שברולט",
+      "model": "סילברדו 3500"
+    },
+    {
+      "id": 1453,
+      "manufacturer": "שברולט",
+      "model": "ספורט ואן"
+    },
+    {
+      "id": 1454,
+      "manufacturer": "שברולט",
+      "model": "קולורדו"
+    },
+    {
+      "id": 1455,
+      "manufacturer": "שברולט",
+      "model": "קולורדו ZR2"
+    },
+    {
+      "id": 1456,
+      "manufacturer": "שברולט",
+      "model": "רולס רויס / Rolls Royse"
+    },
+    {
+      "id": 1457,
+      "manufacturer": "שברולט",
+      "model": "Spectre"
+    },
+    {
+      "id": 1458,
+      "manufacturer": "טויטה",
+      "model": "קורולה"
+    }
+  ],
+  "total_manufacturers": 71,
+  "total_models": 1244,
+  "generated_at": "2025-10-18T19:33:07.789Z"
+}
