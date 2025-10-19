@@ -3,8 +3,8 @@ import { supabase, isSupabaseConfigured } from './supabase';
 import { localLogin, localLogout, localGetCurrentUser, localIsAuthenticated } from './localAuth';
 import type { User } from '../types';
 
-// בדיקה אם אנחנו במצב DEV
-const isDevMode = import.meta.env.VITE_DEV_MODE === 'true';
+// בדיקה אם אנחנו במצב DEV - תמיד true לפיתוח
+const isDevMode = true; // import.meta.env.VITE_DEV_MODE === 'true';
 
 // התחברות
 export const login = async (
