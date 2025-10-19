@@ -18,7 +18,7 @@ export const login = async (
 
   // אימות עם Supabase
   try {
-    console.log('Attempting Supabase login with:', { email, supabaseUrl: supabaseUrl });
+    console.log('Attempting Supabase login with:', { email, supabaseUrl: import.meta.env.VITE_SUPABASE_URL });
     const { data, error } = await supabase.auth.signInWithPassword({
       email,
       password,
