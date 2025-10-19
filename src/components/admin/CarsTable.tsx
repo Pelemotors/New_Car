@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import { Edit, Trash2, Eye, Search, Plus } from 'lucide-react';
 import type { Car } from '../../types';
 import { Card } from '../ui/Card';
-import { Badge } from '../ui/Badge';
+// import { Badge } from '../ui/Badge'; // לא בשימוש
 import { Button } from '../ui/Button';
 import { supabase } from '../../utils/supabase';
 

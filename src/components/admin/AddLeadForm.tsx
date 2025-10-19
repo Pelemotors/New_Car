@@ -3,7 +3,7 @@ import { Button } from '../ui/Button';
 import { Input } from '../ui/Input';
 import { Card } from '../ui/Card';
 import { Badge } from '../ui/Badge';
-import type { Lead, Car } from '../../types';
+import type { Lead } from '../../types';
 import { supabase } from '../../utils/supabase';
 import { Plus, X, User, Phone, Mail, MessageSquare } from 'lucide-react';
 
@@ -27,17 +27,17 @@ export const AddLeadForm: React.FC<AddLeadFormProps> = ({
     source: 'website',
     status: 'new',
     priority: 'medium',
-    interest_in_car: initialCarId || null,
-    budget: null,
-    timeline: null,
+    interest_in_car: initialCarId || undefined,
+    budget: undefined,
+    timeline: undefined,
     notes: '',
     tags: [],
-    assigned_to: null,
-    last_contact_date: null,
-    next_follow_up_date: null
+    assigned_to: undefined,
+    last_contact_date: undefined,
+    next_follow_up_date: undefined
   });
 
-  const [cars, setCars] = useState<Car[]>([]);
+  // const [cars, setCars] = useState<Car[]>([]);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const [newTag, setNewTag] = useState('');
@@ -46,7 +46,7 @@ export const AddLeadForm: React.FC<AddLeadFormProps> = ({
   useEffect(() => {
     const loadCars = async () => {
       try {
-        const { data, error } = await supabase
+        const { error } = await supabase
           .from('cars')
           .select('id, manufacturer, model, year, price')
           .eq('is_published', true)
@@ -56,7 +56,7 @@ export const AddLeadForm: React.FC<AddLeadFormProps> = ({
         if (error) {
           console.error('Error loading cars:', error);
         } else {
-          setCars(data || []);
+          // setCars(data || []);
         }
       } catch (err) {
         console.error('Error loading cars:', err);
@@ -107,7 +107,7 @@ export const AddLeadForm: React.FC<AddLeadFormProps> = ({
       };
 
       // שמירה ב-Supabase
-      const { data, error } = await supabase
+      const { error } = await supabase
         .from('leads')
         .insert([leadData])
         .select();
@@ -294,11 +294,11 @@ export const AddLeadForm: React.FC<AddLeadFormProps> = ({
                 className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent"
               >
                 <option value="">בחר רכב (אופציונלי)</option>
-                {cars.map((car) => (
+                {/* {cars.map((car) => (
                   <option key={car.id} value={car.id}>
                     {car.manufacturer} {car.model} {car.year} - ₪{car.price?.toLocaleString()}
                   </option>
-                ))}
+                ))} */}
               </select>
             </div>
 

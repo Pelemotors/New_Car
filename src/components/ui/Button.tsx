@@ -1,7 +1,7 @@
-import { ButtonHTMLAttributes } from 'react';
+import type { ButtonHTMLAttributes } from 'react';
 import type { ButtonProps } from '../../types';
 
-interface ExtendedButtonProps extends ButtonProps, Omit<ButtonHTMLAttributes<HTMLButtonElement>, 'size'> {}
+interface ExtendedButtonProps extends Omit<ButtonHTMLAttributes<HTMLButtonElement>, 'size' | 'children' | 'onClick'>, ButtonProps {}
 
 export const Button = ({
   children,
@@ -22,6 +22,7 @@ export const Button = ({
     secondary: 'border-2 border-primary text-primary hover:bg-primary hover:text-white focus:ring-primary',
     outline: 'border-2 border-darkGray text-darkGray hover:bg-darkGray hover:text-white focus:ring-darkGray',
     ghost: 'text-primary hover:bg-primary-50 focus:ring-primary',
+    destructive: 'bg-red-600 hover:bg-red-700 text-white shadow-md hover:shadow-lg focus:ring-red-500',
   };
 
   const sizeClasses = {

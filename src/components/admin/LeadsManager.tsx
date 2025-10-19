@@ -1,10 +1,8 @@
 import { useState } from 'react';
-import { motion } from 'framer-motion';
-import { Users, Search, Phone, Mail, MessageCircle, Eye } from 'lucide-react';
+import { Users, Search, Phone, MessageCircle, Eye } from 'lucide-react';
 import type { Lead } from '../../types';
 import { Card } from '../ui/Card';
 import { Badge } from '../ui/Badge';
-import { Button } from '../ui/Button';
 
 export const LeadsManager = () => {
   // לידים לדוגמה

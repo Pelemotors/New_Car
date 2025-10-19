@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { Calculator, TrendingUp } from 'lucide-react';
 import { Card } from '../ui/Card';
-import { Input } from '../ui/Input';
+// import { Input } from '../ui/Input'; // לא בשימוש
 import { calculateFinance, formatCurrency } from '../../utils/finance';
 
 interface FinanceCalculatorProps {

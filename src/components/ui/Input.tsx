@@ -12,6 +12,9 @@ export const Input = ({
   disabled = false,
   className = '',
   rows = 4,
+  min,
+  max,
+  onKeyPress,
 }: InputProps) => {
   const baseInputClasses = 'w-full px-4 py-3 border rounded-lg focus:ring-2 focus:ring-primary focus:border-transparent transition-all duration-200 disabled:bg-gray-100 disabled:cursor-not-allowed';
   
@@ -28,6 +31,7 @@ export const Input = ({
       required={required}
       disabled={disabled}
       rows={rows}
+      onKeyPress={onKeyPress}
       className={`${baseInputClasses} ${errorClasses} ${className}`}
     />
   ) : (
@@ -39,6 +43,9 @@ export const Input = ({
       onChange={onChange}
       required={required}
       disabled={disabled}
+      min={min}
+      max={max}
+      onKeyPress={onKeyPress}
       className={`${baseInputClasses} ${errorClasses} ${className}`}
     />
   );

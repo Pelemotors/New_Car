@@ -12,12 +12,13 @@ import {
   MessageCircle,
   Phone,
   CheckCircle,
-  ArrowRight,
+  // ArrowRight, // לא בשימוש
 } from 'lucide-react';
 import { Card } from '../components/ui/Card';
 import { Button } from '../components/ui/Button';
 import { Badge } from '../components/ui/Badge';
 import { FinanceCalculator } from '../components/cars/FinanceCalculator';
+import { CarCard } from '../components/cars/CarCard';
 import type { Car } from '../types';
 import { supabase } from '../utils/supabase';
 import { createCarInquiryMessage, openWhatsApp } from '../utils/whatsapp';
@@ -338,10 +339,9 @@ const CarDetailPage = () => {
             >
               <h2 className="text-3xl font-bold text-dark mb-8">רכבים דומים</h2>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-                {similarCars.map((similarCar, index) => {
-                  const CarCard = require('../components/cars/CarCard').CarCard;
-                  return <CarCard key={similarCar.id} car={similarCar} index={index} />;
-                })}
+                {similarCars.map((similarCar, index) => (
+                  <CarCard key={similarCar.id} car={similarCar} index={index} />
+                ))}
               </div>
             </motion.div>
           )}

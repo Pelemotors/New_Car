@@ -1,5 +1,6 @@
 // React Context לניהול אימות
-import { createContext, useContext, useState, useEffect, ReactNode } from 'react';
+import { createContext, useContext, useState, useEffect } from 'react';
+import type { ReactNode } from 'react';
 import type { User } from '../types';
 import { login as authLogin, logout as authLogout, getCurrentUser } from '../utils/auth';
 

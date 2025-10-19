@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
 import { useState, useEffect } from 'react';
-import { Car, Shield, DollarSign, CheckCircle, Phone, MessageCircle } from 'lucide-react';
+import { Shield, DollarSign, CheckCircle, Phone, MessageCircle } from 'lucide-react';
 import { Button } from '../components/ui/Button';
 import { Card } from '../components/ui/Card';
 import { supabase } from '../utils/supabase';

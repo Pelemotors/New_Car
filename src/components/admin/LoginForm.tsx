@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { motion } from 'framer-motion';
 import { Lock, Mail, LogIn } from 'lucide-react';
-import { Input } from '../ui/Input';
+// import { Input } from '../ui/Input'; // לא בשימוש
 import { Button } from '../ui/Button';
 import { useAuth } from '../../contexts/AuthContext';
 

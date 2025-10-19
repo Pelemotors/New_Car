@@ -16,7 +16,9 @@ export interface Car {
   transmission: 'automatic' | 'manual';
   fuel: 'gasoline' | 'diesel' | 'hybrid' | 'electric';
   engine_size?: number; // סמ"ק
+  engine?: string; // הוספתי את השדה החסר
   color: string;
+  ownership?: string; // הוספתי את השדה החסר
   
   // מחיר ומצב
   price: number;
@@ -40,6 +42,8 @@ export interface Car {
   warranty_months?: number;
   is_published: boolean;
   is_sold: boolean;
+  is_active?: boolean; // הוספתי את השדה החסר
+  service_history?: boolean; // הוספתי את השדה החסר
   
   // מטא-דאטה
   created_at?: string;
@@ -143,6 +147,7 @@ export interface Model {
   manufacturer_id: number;
   manufacturer: string;
   name: string;
+  model: string; // הוספתי את השדה החסר
   name_en?: string;
 }
 
@@ -208,7 +213,7 @@ export interface SiteConfig {
 // פרופס של קומפוננטות נפוצות
 export interface ButtonProps {
   children: React.ReactNode;
-  variant?: 'primary' | 'secondary' | 'outline' | 'ghost';
+  variant?: 'primary' | 'secondary' | 'outline' | 'ghost' | 'destructive';
   size?: 'sm' | 'md' | 'lg';
   fullWidth?: boolean;
   disabled?: boolean;
@@ -227,8 +232,8 @@ export interface CardProps {
 
 export interface InputProps {
   label?: string;
-  name: string;
-  type?: 'text' | 'email' | 'tel' | 'number' | 'password' | 'textarea';
+  name?: string;
+  type?: 'text' | 'email' | 'tel' | 'number' | 'password' | 'textarea' | 'url' | 'datetime-local';
   placeholder?: string;
   value: string | number;
   onChange: (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => void;
@@ -237,6 +242,9 @@ export interface InputProps {
   disabled?: boolean;
   className?: string;
   rows?: number; // for textarea
+  min?: string | number; // הוספתי
+  max?: string | number; // הוספתי
+  onKeyPress?: (e: React.KeyboardEvent<HTMLInputElement | HTMLTextAreaElement>) => void; // הוספתי
 }
 
 export interface ModalProps {

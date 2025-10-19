@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
-import { Car as CarIcon, Users, TrendingUp, DollarSign, Eye, Calendar, Trash2 } from 'lucide-react';
+import { Car as CarIcon, Users, TrendingUp, Eye, Trash2 } from 'lucide-react';
 import { Card } from '../ui/Card';
 import { Badge } from '../ui/Badge';
 import { Button } from '../ui/Button';

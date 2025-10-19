@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import { Search, SlidersHorizontal } from 'lucide-react';
 import { CarCard } from '../components/cars/CarCard';
-import { Input } from '../components/ui/Input';
+// import { Input } from '../components/ui/Input'; // לא בשימוש
 import { Button } from '../components/ui/Button';
 import { supabase } from '../utils/supabase';
 import type { Car } from '../types';
